@@ -20,11 +20,13 @@ File.open(DATA, 'r') do |f|
 end
 
 treatments.each do |t|
-  s1 = t.mentions_by_date_range['1986-1990'] - t.mentions_by_date_range['1980-1985']
-  s2 = t.mentions_by_date_range['1996-2000'] - t.mentions_by_date_range['1986-1990']
-  s3 = t.mentions_by_date_range['2001-2005'] - t.mentions_by_date_range['1996-2000']
-  s4 = (t.mentions_by_date_range['2011-2013'] * 2) - t.mentions_by_date_range['2001-2005']
-  (s1 + s2 + s3 + s4) / 4 > 0
+  split = (t.mentions_by_date_range['1996-2000'].to_i / 2)
+  s1 = split + t.mentions_by_date_range['1991-1995'].to_i + t.mentions_by_date_range['1986-1990'].to_i + t.mentions_by_date_range['1980-1985'].to_i
+  s2 = t.mentions_by_date_range['2001-2005'].to_i + t.mentions_by_date_range['2006-2010'].to_i + t.mentions_by_date_range['2011-2013'].to_i + split
+  if s1+s2 > 20
+    # t.trend = 'Upward' if  ((s2 + 0.01 / s1 + 0.01) - 1.0) > 4.0
+    t.trend = 'Upward' if  s2.to_f / (s1.to_f+s2.to_f) > 0.70
+  end
 end
 
 TEMPLATE = <<-HTML
@@ -34,6 +36,9 @@ TEMPLATE = <<-HTML
       <style>
         td {
           text-align: center;
+        }
+        .highlight {
+          background-color:#ffc;
         }
       </style>
     </head>
@@ -46,9 +51,9 @@ TEMPLATE = <<-HTML
           <th>1986-1990</th>
           <th>1991-1995</th>
           <th>1996-2000</th>
-          <th>2001-2005</th>
-          <th>2006-2010</th>
-          <th>2011-2013</th>
+          <th class="highlight">2001-2005</th>
+          <th class="highlight">2006-2010</th>
+          <th class="highlight">2011-2013</th>
           <th>Trend</th>
         </tr>
         <% treatments.each do |t| %>
@@ -58,9 +63,10 @@ TEMPLATE = <<-HTML
             <td><%= t.mentions_by_date_range['1986-1990'] || '&nbsp;' %></td>
             <td><%= t.mentions_by_date_range['1991-1995'] || '&nbsp;' %></td>
             <td><%= t.mentions_by_date_range['1996-2000'] || '&nbsp;' %></td>
-            <td><%= t.mentions_by_date_range['2001-2005'] || '&nbsp;' %></td>
-            <td><%= t.mentions_by_date_range['2006-2010'] || '&nbsp;' %></td>
-            <td><%= t.mentions_by_date_range['2011-2013'] || '&nbsp;' %></td>
+            <td class="highlight"><%= t.mentions_by_date_range['2001-2005'] || '&nbsp;' %></td>
+            <td class="highlight"><%= t.mentions_by_date_range['2006-2010'] || '&nbsp;' %></td>
+            <td class="highlight"><%= t.mentions_by_date_range['2011-2013'] || '&nbsp;' %></td>
+            <td><%= t.trend || '&nbsp;' %></td>
           </tr>
         <% end %>
       </table>
