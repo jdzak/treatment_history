@@ -1,0 +1,133 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+    <script type='text/javascript' src='http://code.jquery.com/jquery-1.9.1.js'></script>
+    <script src="http://code.highcharts.com/highcharts.js"></script>
+    <script src="http://code.highcharts.com/modules/exporting.js"></script>
+
+    <script>
+
+      $(function () {
+        $('#container').highcharts({
+            title: {
+                text: 'Treatment mentions over time',
+                x: -20 //center
+            },
+            
+            xAxis: {
+                categories: ['1985', '1990', '1995', '2000', '2005',
+                    '2010', '2013']
+            },
+            yAxis: {
+                min: 0,
+                title: {
+                    text: 'Number of mentions'
+                },
+                plotLines: [{
+                    value: 0,
+                    width: 1,
+                    color: '#808080'
+                }]
+            },
+            // legend: {
+            //     layout: 'vertical',
+            //     align: 'right',
+            //     verticalAlign: 'middle',
+            //     borderWidth: 0
+            // },
+            series: [{
+                name: 'Angiotensin-Convertin',
+                data: [16, 116, 232, 344, 352, 162, 47] }, {
+                name: 'Adrenergic beta-Antag',
+                data: [2, 25, 58, 218, 379, 200, 109] }, {
+                name: 'Pharmaceutical Prepar',
+                data: [36, 95, 119, 154, 223, 186, 134] }]
+        });
+      });
+
+/*
+Angiotensin-Convertin (C0003015)
+Adrenergic beta-Antag (C0001645)
+Pharmaceutical Prepar (C0013227)
+Cardiac resynchronisa (C1167956)
+Heart Transplantation (C0018823)
+*/
+      
+
+    </script>
+  </head>
+
+  <style>
+    .container {
+      background-color: #fff;
+      border: 1px solid #ccc;
+    }
+
+    body {
+      padding: 5px;
+      background-color: #eee;
+    }
+
+    ol {
+      list-style-type: none;
+      padding:0px;
+    }
+  </style>
+
+  <body>
+    <div class="container">
+      <div class="row" style="border-bottom:1px solid #ccc">
+        <div class="col-md-4">
+          <img src="images/NUCATS-with-NU-extra-small.jpg"/>
+        </div>
+      </div>
+      <div class="row" style="padding-top:10px; border-bottom: 1px solid #ccc; padding-bottom: 10px">
+        <div class="col-md-12" style="text-align: center">
+          <label for="search">Search by Disease Name or CUI: </label>
+          &nbsp;&nbsp;
+          <input type="text" placeholder="Disease Name or CUI" id="search" value="Congestive Heart Failure" style="width:200px"/>
+          <input type="button" value="Search"/>
+        </div>
+      </div>
+      <div class="row" style="margin-top:10px">    
+        <div class="col-md-8">
+          <div id="container" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
+        </div>
+        <div class="col-md-4">
+          <span style="font-weight: bold">Treatment Trends</span>
+          <ol style="border-top: 1px solid #ccc">
+            <li><input type="radio" checked="checked"/>&nbsp;Upward Trend</li>
+            <li><input type="radio"/>&nbsp;Downward Trend</li>
+            <li><input type="radio"/>&nbsp;Constant Trend</li>
+          </ol>
+          <br/><br/>
+          <span >
+            <span style="font-weight: bold">Treatments</span>
+            <span style="font-weight: bold">sorted by</span>
+              <select>
+                <option>Score: high to low</option>
+                <option>Score: low to high</option>
+              </select>
+            
+          </span>
+          <ol style="border-top: 1px solid #ccc; height: 160px; overflow-y: scroll">
+            <li><input type="checkbox" checked="checked"/> <a href="#">Angiotensin-Convertin (C0003015)</a></li>
+            <li><input type="checkbox" checked="checked"/> <a href="#">Adrenergic beta-Antag (C0001645) </a></li> 
+            <li><input type="checkbox" checked="checked"/><a href="#"> Pharmaceutical Prepar (C0013227)</a></li>
+            <li><input type="checkbox"/> <a href="#"> Cardiac resynchronisa (C1167956)</a></li>
+            <li><input type="checkbox"/> <a href="#"> Heart Transplantation (C0018823)</a></li>
+            <li><input type="checkbox"/> <a href="#"> Brain natriuretic pep (C0054015)</a></li>
+            <li><input type="checkbox"/> <a href="#"> Diuretics (C0012798)</a></li>
+            <li><input type="checkbox"/> <a href="#"> carvedilol (C0054836)</a></li>
+            <li><input type="checkbox"/> <a href="#"> Digoxin (C0012265)</a></li>
+            <li><input type="checkbox"/> <a href="#"> Exercise (C0015259)</a></li>
+            <li><input type="checkbox"/> <a href="#"> Operative Surgical Pr (C0543467)</a></li>
+            <li><input type="checkbox"/> <a href="#"> Intervention regimes (C1273869)</a></li>
+            <li><input type="checkbox"/> <a href="#"> Captopril (C0006938)</a></li>
+            <li><input type="checkbox"/> <a href="#"> Support, device (C0183683)</a></li>
+          </ol>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

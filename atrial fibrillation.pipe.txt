@@ -1,0 +1,1281 @@
+|        1 | C0278261 | -plasty                                                                | 2001-2005  |
+|        1 | C0045883 | 2-aminofluorene                                                        | 1991-1995  |
+|        1 | C0047506 | 3-Iodobenzylguanidine                                                  | 2011-2013  |
+|        1 | C0547070 | Ablation                                                               | 1980-1985  |
+|        7 | C0547070 | Ablation                                                               | 1991-1995  |
+|       58 | C0547070 | Ablation                                                               | 1996-2000  |
+|      198 | C0547070 | Ablation                                                               | 2001-2005  |
+|      391 | C0547070 | Ablation                                                               | 2006-2010  |
+|      359 | C0547070 | Ablation                                                               | 2011-2013  |
+|        1 | C0877859 | Ablation Catheters                                                     | 1996-2000  |
+|        1 | C0877859 | Ablation Catheters                                                     | 2001-2005  |
+|        3 | C0877859 | Ablation Catheters                                                     | 2006-2010  |
+|        1 | C0877859 | Ablation Catheters                                                     | 2011-2013  |
+|        1 | C0000956 | Acenocoumarol                                                          | 1996-2000  |
+|        2 | C0000956 | Acenocoumarol                                                          | 2001-2005  |
+|        3 | C0000956 | Acenocoumarol                                                          | 2006-2010  |
+|        6 | C0000956 | Acenocoumarol                                                          | 2011-2013  |
+|        1 | C0050465 | acetovanillone                                                         | 2006-2010  |
+|        1 | C0394664 | Acupuncture procedure                                                  | 2011-2013  |
+|        1 | C0001443 | Adenosine                                                              | 1991-1995  |
+|        4 | C0001443 | Adenosine                                                              | 1996-2000  |
+|        1 | C0001443 | Adenosine                                                              | 2011-2013  |
+|        1 | C1373149 | Adenosine Diphosphate Receptor Inhibitors                              | 1996-2000  |
+|        1 | C0456081 | Adjustment Action                                                      | 2011-2013  |
+|        1 | C0677850 | adjuvant therapy                                                       | 2006-2010  |
+|        1 | C0001563 | Administration, Oral                                                   | 2001-2005  |
+|        1 | C0001617 | Adrenal Cortex Hormones                                                | 2011-2013  |
+|        1 | C0001645 | Adrenergic beta-Antagonists                                            | 1986-1990  |
+|        3 | C0001645 | Adrenergic beta-Antagonists                                            | 1991-1995  |
+|        4 | C0001645 | Adrenergic beta-Antagonists                                            | 1996-2000  |
+|       11 | C0001645 | Adrenergic beta-Antagonists                                            | 2001-2005  |
+|       25 | C0001645 | Adrenergic beta-Antagonists                                            | 2006-2010  |
+|        9 | C0001645 | Adrenergic beta-Antagonists                                            | 2011-2013  |
+|        1 | C0150600 | Advice                                                                 | 1996-2000  |
+|        3 | C0150600 | Advice                                                                 | 2001-2005  |
+|        3 | C0150600 | Advice                                                                 | 2006-2010  |
+|        2 | C0150600 | Advice                                                                 | 2011-2013  |
+|        1 | C0001888 | Ajmaline                                                               | 1980-1985  |
+|        1 | C0001927 | Albuterol                                                              | 1991-1995  |
+|        3 | C0002006 | Aldosterone                                                            | 2006-2010  |
+|        4 | C0002006 | Aldosterone                                                            | 2011-2013  |
+|        4 | C0002007 | Aldosterone Antagonists                                                | 2006-2010  |
+|        2 | C0002007 | Aldosterone Antagonists                                                | 2011-2013  |
+|        1 | C1579268 | Aldosterone Receptor Antagonists                                       | 2006-2010  |
+|        2 | C0032143 | Alteplase                                                              | 1991-1995  |
+|        3 | C0032143 | Alteplase                                                              | 1996-2000  |
+|        2 | C0032143 | Alteplase                                                              | 2006-2010  |
+|        5 | C0032143 | Alteplase                                                              | 2011-2013  |
+|        1 | C0949216 | Alternative Therapies                                                  | 1996-2000  |
+|        1 | C0949216 | Alternative Therapies                                                  | 2006-2010  |
+|        3 | C0949216 | Alternative Therapies                                                  | 2011-2013  |
+|        1 | C0043603 | amidronate                                                             | 1996-2000  |
+|        1 | C0043603 | amidronate                                                             | 2006-2010  |
+|        1 | C0043603 | amidronate                                                             | 2011-2013  |
+|        2 | C0002575 | Aminophylline                                                          | 1986-1990  |
+|        1 | C0002575 | Aminophylline                                                          | 1996-2000  |
+|       11 | C0002598 | Amiodarone                                                             | 1980-1985  |
+|       13 | C0002598 | Amiodarone                                                             | 1986-1990  |
+|       31 | C0002598 | Amiodarone                                                             | 1991-1995  |
+|       47 | C0002598 | Amiodarone                                                             | 1996-2000  |
+|       69 | C0002598 | Amiodarone                                                             | 2001-2005  |
+|       96 | C0002598 | Amiodarone                                                             | 2006-2010  |
+|       33 | C0002598 | Amiodarone                                                             | 2011-2013  |
+|        1 | C0700442 | Amiodarone hydrochloride                                               | 1986-1990  |
+|        1 | C0051696 | Amlodipine                                                             | 2006-2010  |
+|        2 | C0002688 | Amputation                                                             | 2006-2010  |
+|        1 | C0002688 | Amputation                                                             | 2011-2013  |
+|        1 | C0002903 | Anesthesia procedures                                                  | 1996-2000  |
+|        3 | C0002913 | Anesthesia, Epidural                                                   | 2011-2013  |
+|        1 | C0540511 | Angiopoietin-2                                                         | 2001-2005  |
+|        1 | C0003009 | Angiotensin II                                                         | 2001-2005  |
+|        1 | C0003009 | Angiotensin II                                                         | 2006-2010  |
+|        3 | C0003009 | Angiotensin II                                                         | 2011-2013  |
+|        1 | C0521942 | Angiotensin II receptor antagonist                                     | 2001-2005  |
+|        4 | C1449680 | Angiotensin II Type 1 Receptor Blockers                                | 2001-2005  |
+|        1 | C1449680 | Angiotensin II Type 1 Receptor Blockers                                | 2006-2010  |
+|        1 | C1449680 | Angiotensin II Type 1 Receptor Blockers                                | 2011-2013  |
+|       14 | C0003015 | Angiotensin-Converting Enzyme Inhibitors                               | 2001-2005  |
+|       21 | C0003015 | Angiotensin-Converting Enzyme Inhibitors                               | 2006-2010  |
+|        4 | C0003015 | Angiotensin-Converting Enzyme Inhibitors                               | 2011-2013  |
+|        3 | C0003018 | Angiotensins                                                           | 2011-2013  |
+|        1 | C0190165 | Annuloplasty                                                           | 2006-2010  |
+|        2 | C0040616 | Anti-Anxiety Agents                                                    | 1996-2000  |
+|        3 | C0040616 | Anti-Anxiety Agents                                                    | 2011-2013  |
+|        5 | C0003195 | Anti-Arrhythmia Agents                                                 | 1986-1990  |
+|       17 | C0003195 | Anti-Arrhythmia Agents                                                 | 1991-1995  |
+|       43 | C0003195 | Anti-Arrhythmia Agents                                                 | 1996-2000  |
+|       88 | C0003195 | Anti-Arrhythmia Agents                                                 | 2001-2005  |
+|      124 | C0003195 | Anti-Arrhythmia Agents                                                 | 2006-2010  |
+|       79 | C0003195 | Anti-Arrhythmia Agents                                                 | 2011-2013  |
+|        1 | C0279516 | Anti-Bacterial Agents                                                  | 1996-2000  |
+|        1 | C0003209 | Anti-Inflammatory Agents                                               | 2006-2010  |
+|        1 | C0003211 | Anti-Inflammatory Agents, Non-Steroidal                                | 2006-2010  |
+|        2 | C0003232 | Antibiotics                                                            | 1986-1990  |
+|        1 | C0419969 | Anticoagulant drug monitoring                                          | 1991-1995  |
+|        1 | C0419969 | Anticoagulant drug monitoring                                          | 2001-2005  |
+|        1 | C0419969 | Anticoagulant drug monitoring                                          | 2006-2010  |
+|        1 | C0150457 | Anticoagulant therapy                                                  | 1980-1985  |
+|       15 | C0150457 | Anticoagulant therapy                                                  | 1991-1995  |
+|       23 | C0150457 | Anticoagulant therapy                                                  | 1996-2000  |
+|       40 | C0150457 | Anticoagulant therapy                                                  | 2001-2005  |
+|       55 | C0150457 | Anticoagulant therapy                                                  | 2006-2010  |
+|       65 | C0150457 | Anticoagulant therapy                                                  | 2011-2013  |
+|        6 | C0003280 | Anticoagulants                                                         | 1986-1990  |
+|       10 | C0003280 | Anticoagulants                                                         | 1991-1995  |
+|       21 | C0003280 | Anticoagulants                                                         | 1996-2000  |
+|       33 | C0003280 | Anticoagulants                                                         | 2001-2005  |
+|       27 | C0003280 | Anticoagulants                                                         | 2006-2010  |
+|       73 | C0003280 | Anticoagulants                                                         | 2011-2013  |
+|        1 | C0003281 | anticoagulation                                                        | 1980-1985  |
+|        5 | C0003281 | anticoagulation                                                        | 1986-1990  |
+|       36 | C0003281 | anticoagulation                                                        | 1991-1995  |
+|       93 | C0003281 | anticoagulation                                                        | 1996-2000  |
+|      113 | C0003281 | anticoagulation                                                        | 2001-2005  |
+|      159 | C0003281 | anticoagulation                                                        | 2006-2010  |
+|      177 | C0003281 | anticoagulation                                                        | 2011-2013  |
+|        6 | C0741135 | ANTICOAGULATION TREATMENT                                              | 2001-2005  |
+|        5 | C0741135 | ANTICOAGULATION TREATMENT                                              | 2006-2010  |
+|        7 | C0741135 | ANTICOAGULATION TREATMENT                                              | 2011-2013  |
+|        1 | C0003289 | Antidepressive Agents                                                  | 1986-1990  |
+|        1 | C0003304 | Antifibrinolytic Agents                                                | 1986-1990  |
+|        2 | C0003364 | Antihypertensive Agents                                                | 2011-2013  |
+|        1 | C0585941 | Antihypertensive therapy                                               | 1996-2000  |
+|        1 | C0585941 | Antihypertensive therapy                                               | 2006-2010  |
+|        2 | C0585941 | Antihypertensive therapy                                               | 2011-2013  |
+|        1 | C1096024 | Antiinflammatory therapy                                               | 2001-2005  |
+|        1 | C1096024 | Antiinflammatory therapy                                               | 2011-2013  |
+|        1 | C0003402 | Antioxidants                                                           | 2006-2010  |
+|        4 | C0003402 | Antioxidants                                                           | 2011-2013  |
+|        1 | C0085826 | Antiplatelet Agents                                                    | 1996-2000  |
+|        4 | C0085826 | Antiplatelet Agents                                                    | 2001-2005  |
+|        4 | C0085826 | Antiplatelet Agents                                                    | 2006-2010  |
+|        5 | C0085826 | Antiplatelet Agents                                                    | 2011-2013  |
+|        1 | C1096021 | Antiplatelet therapy                                                   | 1991-1995  |
+|        1 | C1096021 | Antiplatelet therapy                                                   | 1996-2000  |
+|        9 | C1096021 | Antiplatelet therapy                                                   | 2006-2010  |
+|       14 | C1096021 | Antiplatelet therapy                                                   | 2011-2013  |
+|        1 | C0003438 | Antithrombin III                                                       | 2001-2005  |
+|        2 | C0003438 | Antithrombin III                                                       | 2006-2010  |
+|       14 | C0003438 | Antithrombin III                                                       | 2011-2013  |
+|        2 | C0178483 | aortic balloon pump                                                    | 1991-1995  |
+|        1 | C0178483 | aortic balloon pump                                                    | 2011-2013  |
+|        1 | C0003506 | Aortic valve replacement NOS                                           | 2001-2005  |
+|        1 | C0003506 | Aortic valve replacement NOS                                           | 2006-2010  |
+|        2 | C0003506 | Aortic valve replacement NOS                                           | 2011-2013  |
+|        2 | C0185125 | Application procedure                                                  | 1980-1985  |
+|        2 | C0185125 | Application procedure                                                  | 1991-1995  |
+|        5 | C0185125 | Application procedure                                                  | 1996-2000  |
+|        6 | C0185125 | Application procedure                                                  | 2001-2005  |
+|       14 | C0185125 | Application procedure                                                  | 2006-2010  |
+|        6 | C0185125 | Application procedure                                                  | 2011-2013  |
+|        1 | C0003639 | Aprindine                                                              | 2001-2005  |
+|        1 | C0172217 | Arsenal                                                                | 2011-2013  |
+|        1 | C0729665 | Arteriovenous graft                                                    | 2011-2013  |
+|        1 | C0003893 | Arthroplasty                                                           | 2011-2013  |
+|        1 | C0392806 | Arthroplasty, Replacement, Hip                                         | 2011-2013  |
+|        1 | C0086511 | Arthroplasty, Replacement, Knee                                        | 2011-2013  |
+|        1 | C0003968 | Ascorbic Acid                                                          | 2006-2010  |
+|        1 | C0280527 | asparaginase/prednisone/vincristine protocol                           | 2011-2013  |
+|       10 | C0004057 | Aspirin                                                                | 1991-1995  |
+|       36 | C0004057 | Aspirin                                                                | 1996-2000  |
+|       19 | C0004057 | Aspirin                                                                | 2001-2005  |
+|       35 | C0004057 | Aspirin                                                                | 2006-2010  |
+|       16 | C0004057 | Aspirin                                                                | 2011-2013  |
+|        1 | C1261322 | Assessment procedure                                                   | 1980-1985  |
+|        2 | C1261322 | Assessment procedure                                                   | 1986-1990  |
+|        1 | C1261322 | Assessment procedure                                                   | 1991-1995  |
+|        5 | C1261322 | Assessment procedure                                                   | 1996-2000  |
+|       10 | C1261322 | Assessment procedure                                                   | 2001-2005  |
+|       15 | C1261322 | Assessment procedure                                                   | 2006-2010  |
+|        9 | C1261322 | Assessment procedure                                                   | 2011-2013  |
+|        1 | C0004147 | Atenolol                                                               | 1991-1995  |
+|        2 | C0004147 | Atenolol                                                               | 2001-2005  |
+|        1 | C0004147 | Atenolol                                                               | 2006-2010  |
+|        1 | C0004147 | Atenolol                                                               | 2011-2013  |
+|        1 | C0286651 | atorvastatin                                                           | 2001-2005  |
+|        2 | C0286651 | atorvastatin                                                           | 2006-2010  |
+|        5 | C0286651 | atorvastatin                                                           | 2011-2013  |
+|        3 | C0199550 | Atrial cardioversion                                                   | 1996-2000  |
+|        1 | C0199550 | Atrial cardioversion                                                   | 2001-2005  |
+|        1 | C0199550 | Atrial cardioversion                                                   | 2006-2010  |
+|        1 | C0397185 | Atrial operation                                                       | 1996-2000  |
+|        3 | C0397185 | Atrial operation                                                       | 2001-2005  |
+|        1 | C0565239 | Atrial overdrive pacing                                                | 2001-2005  |
+|        2 | C0004259 | Atropine                                                               | 2001-2005  |
+|        1 | C1510984 | Autologous Stem Cell Transplantation                                   | 2011-2013  |
+|        2 | C0206233 | Autonomic Denervation                                                  | 2006-2010  |
+|        2 | C0206233 | Autonomic Denervation                                                  | 2011-2013  |
+|        4 | C0252416 | azimilide                                                              | 1996-2000  |
+|        6 | C0252416 | azimilide                                                              | 2001-2005  |
+|        2 | C0252416 | azimilide                                                              | 2006-2010  |
+|        1 | C1314817 | azimilide dihydrochloride                                              | 2001-2005  |
+|        1 | C0004704 | Balloon Dilatation                                                     | 1991-1995  |
+|        1 | C0441127 | Balloon dilatation catheter                                            | 2006-2010  |
+|        1 | C0396879 | Balloon mitral valvotomy                                               | 1996-2000  |
+|        1 | C0396879 | Balloon mitral valvotomy                                               | 2001-2005  |
+|        2 | C0396879 | Balloon mitral valvotomy                                               | 2011-2013  |
+|        1 | C0887842 | Balloon Occlusion                                                      | 1996-2000  |
+|        1 | C0004708 | Balloon Valvuloplasty                                                  | 2001-2005  |
+|        2 | C0175723 | Bands                                                                  | 2001-2005  |
+|        1 | C0053091 | benazepril                                                             | 2006-2010  |
+|        1 | C0005116 | Bepridil                                                               | 1980-1985  |
+|        2 | C0005116 | Bepridil                                                               | 1986-1990  |
+|        5 | C0005116 | Bepridil                                                               | 2001-2005  |
+|       12 | C0005116 | Bepridil                                                               | 2006-2010  |
+|       12 | C0005116 | Bepridil                                                               | 2011-2013  |
+|        1 | C0770909 | Bepridil hydrochloride                                                 | 2011-2013  |
+|        1 | C1278453 | Beta blocker prophylaxis                                               | 2006-2010  |
+|        1 | C0741468 | BETA BLOCKER TREATMENT                                                 | 1991-1995  |
+|        1 | C0741468 | BETA BLOCKER TREATMENT                                                 | 2006-2010  |
+|        1 | C0741468 | BETA BLOCKER TREATMENT                                                 | 2011-2013  |
+|        3 | C0875976 | Betapace AF                                                            | 2001-2005  |
+|        2 | C0005320 | Betaxolol                                                              | 2006-2010  |
+|        1 | C0165565 | bidisomide                                                             | 1996-2000  |
+|        1 | C0005527 | Biological Response Modifier Therapy                                   | 2006-2010  |
+|        1 | C0181904 | Biomedical Monitors                                                    | 2001-2005  |
+|        1 | C0181904 | Biomedical Monitors                                                    | 2006-2010  |
+|        1 | C0053799 | Bisoprolol                                                             | 2001-2005  |
+|        2 | C0053799 | Bisoprolol                                                             | 2011-2013  |
+|        3 | C0005825 | Blood Pressure Monitors                                                | 2011-2013  |
+|        1 | C0972401 | Boards                                                                 | 2001-2005  |
+|        1 | C0005971 | Bone plates                                                            | 1991-1995  |
+|        2 | C0005978 | Bone Wires                                                             | 1996-2000  |
+|        1 | C0857515 | Booster                                                                | 2006-2010  |
+|        1 | C0054015 | Brain natriuretic peptide                                              | 2001-2005  |
+|        3 | C0054015 | Brain natriuretic peptide                                              | 2006-2010  |
+|        1 | C0054015 | Brain natriuretic peptide                                              | 2011-2013  |
+|        1 | C0006168 | Bretylium Tosylate                                                     | 1980-1985  |
+|        1 | C0054196 | bucindolol                                                             | 2011-2013  |
+|        1 | C0700525 | Butorphanol Tartrate                                                   | 2001-2005  |
+|        2 | C0741847 | Bypass                                                                 | 2001-2005  |
+|        1 | C0741847 | Bypass                                                                 | 2006-2010  |
+|        1 | C0185098 | Bypass graft                                                           | 2011-2013  |
+|        1 | C1536078 | Bypass surgery                                                         | 2006-2010  |
+|        2 | C1536078 | Bypass surgery                                                         | 2011-2013  |
+|        1 | C0006644 | Caffeine                                                               | 2006-2010  |
+|        2 | C0006684 | Calcium Channel Blockers                                               | 1986-1990  |
+|        4 | C0006684 | Calcium Channel Blockers                                               | 1991-1995  |
+|        1 | C0006684 | Calcium Channel Blockers                                               | 2001-2005  |
+|        2 | C0006684 | Calcium Channel Blockers                                               | 2006-2010  |
+|        1 | C0006684 | Calcium Channel Blockers                                               | 2011-2013  |
+|        1 | C0717550 | candesartan                                                            | 2001-2005  |
+|        2 | C0717550 | candesartan                                                            | 2006-2010  |
+|        1 | C0527379 | candesartan cilexetil                                                  | 2011-2013  |
+|        1 | C0917707 | Cannulation                                                            | 1996-2000  |
+|        1 | C0671970 | capecitabine                                                           | 2011-2013  |
+|        1 | C0162563 | Cardiac ablation                                                       | 1986-1990  |
+|        4 | C0162563 | Cardiac ablation                                                       | 1991-1995  |
+|       19 | C0162563 | Cardiac ablation                                                       | 1996-2000  |
+|       78 | C0162563 | Cardiac ablation                                                       | 2001-2005  |
+|      319 | C0162563 | Cardiac ablation                                                       | 2006-2010  |
+|      369 | C0162563 | Cardiac ablation                                                       | 2011-2013  |
+|        2 | C0007158 | Cardiac Glycosides                                                     | 2001-2005  |
+|        1 | C0007158 | Cardiac Glycosides                                                     | 2006-2010  |
+|        4 | C0179608 | Cardiac Monitors                                                       | 2006-2010  |
+|        2 | C0179608 | Cardiac Monitors                                                       | 2011-2013  |
+|        2 | C0199640 | Cardiac pacing NOS                                                     | 2001-2005  |
+|        1 | C0199640 | Cardiac pacing NOS                                                     | 2006-2010  |
+|        1 | C0700431 | Cardiac rehabilitation                                                 | 2006-2010  |
+|        2 | C0700431 | Cardiac rehabilitation                                                 | 2011-2013  |
+|        5 | C1167956 | Cardiac resynchronisation therapy                                      | 2001-2005  |
+|       43 | C1167956 | Cardiac resynchronisation therapy                                      | 2006-2010  |
+|       32 | C1167956 | Cardiac resynchronisation therapy                                      | 2011-2013  |
+|        1 | C0810449 | Cardiac Stimulators                                                    | 2006-2010  |
+|        7 | C0018821 | Cardiac Surgery procedures                                             | 2001-2005  |
+|       10 | C0018821 | Cardiac Surgery procedures                                             | 2006-2010  |
+|        3 | C0018821 | Cardiac Surgery procedures                                             | 2011-2013  |
+|        1 | C0007202 | Cardiopulmonary Bypass                                                 | 1996-2000  |
+|        2 | C0007202 | Cardiopulmonary Bypass                                                 | 2001-2005  |
+|        1 | C0007202 | Cardiopulmonary Bypass                                                 | 2006-2010  |
+|        2 | C0007202 | Cardiopulmonary Bypass                                                 | 2011-2013  |
+|        1 | C0007220 | Cardiovascular Agents                                                  | 2011-2013  |
+|        1 | C0038897 | Cardiovascular Surgical Procedures                                     | 1996-2000  |
+|        1 | C0038897 | Cardiovascular Surgical Procedures                                     | 2001-2005  |
+|        1 | C0038897 | Cardiovascular Surgical Procedures                                     | 2011-2013  |
+|        1 | C1112431 | Carotid sinus massage                                                  | 2001-2005  |
+|        3 | C0054836 | carvedilol                                                             | 2001-2005  |
+|        6 | C0054836 | carvedilol                                                             | 2006-2010  |
+|        2 | C0054836 | carvedilol                                                             | 2011-2013  |
+|        8 | C0162560 | Catheter Ablation, Percutaneous                                        | 2006-2010  |
+|        6 | C0162560 | Catheter Ablation, Percutaneous                                        | 2011-2013  |
+|        3 | C0162561 | Catheter Ablation, Radiofrequency                                      | 1991-1995  |
+|       17 | C0162561 | Catheter Ablation, Radiofrequency                                      | 1996-2000  |
+|       23 | C0162561 | Catheter Ablation, Radiofrequency                                      | 2001-2005  |
+|      106 | C0162561 | Catheter Ablation, Radiofrequency                                      | 2006-2010  |
+|       74 | C0162561 | Catheter Ablation, Radiofrequency                                      | 2011-2013  |
+|        1 | C0162562 | Catheter Ablation, Transvenous                                         | 1986-1990  |
+|        1 | C0162562 | Catheter Ablation, Transvenous                                         | 2001-2005  |
+|        1 | C0162562 | Catheter Ablation, Transvenous                                         | 2011-2013  |
+|        1 | C0085590 | catheter device                                                        | 2001-2005  |
+|        2 | C0085590 | catheter device                                                        | 2006-2010  |
+|        2 | C0085590 | catheter device                                                        | 2011-2013  |
+|        1 | C0280440 | catheter management                                                    | 2011-2013  |
+|        1 | C0455760 | Catheter procedure                                                     | 1991-1995  |
+|        1 | C0455760 | Catheter procedure                                                     | 1996-2000  |
+|        3 | C0455760 | Catheter procedure                                                     | 2001-2005  |
+|        1 | C0455760 | Catheter procedure                                                     | 2006-2010  |
+|        4 | C0455760 | Catheter procedure                                                     | 2011-2013  |
+|        2 | C0007430 | Catheterization                                                        | 2001-2005  |
+|        1 | C0007430 | Catheterization                                                        | 2011-2013  |
+|        1 | C1140605 | Catheters, Cardiac, Ablation                                           | 2001-2005  |
+|        1 | C0179749 | Catheters, Electrode                                                   | 2006-2010  |
+|        1 | C0878978 | Catheters, Vascular, Retrieval, Basket                                 | 2001-2005  |
+|        1 | C0878978 | Catheters, Vascular, Retrieval, Basket                                 | 2006-2010  |
+|        3 | C0007597 | Cell hybridization                                                     | 2011-2013  |
+|        1 | C0302189 | Cell Therapy                                                           | 2006-2010  |
+|        1 | C1145640 | Central venous catheter                                                | 1986-1990  |
+|        1 | C0592532 | certoparin                                                             | 2006-2010  |
+|        1 | C0870261 | Channel Blockers                                                       | 2001-2005  |
+|        4 | C0870261 | Channel Blockers                                                       | 2006-2010  |
+|        1 | C0870261 | Channel Blockers                                                       | 2011-2013  |
+|        1 | C0007963 | Charts                                                                 | 2011-2013  |
+|        1 | C0279023 | chemosensitization/potentiation                                        | 1991-1995  |
+|        1 | C0694554 | chronic anticoagulation                                                | 1980-1985  |
+|        1 | C0694554 | chronic anticoagulation                                                | 2001-2005  |
+|        3 | C0694554 | chronic anticoagulation                                                | 2006-2010  |
+|        2 | C0694554 | chronic anticoagulation                                                | 2011-2013  |
+|        1 | C0055720 | cifenline                                                              | 1980-1985  |
+|        1 | C0055720 | cifenline                                                              | 1991-1995  |
+|        1 | C0055720 | cifenline                                                              | 2006-2010  |
+|        1 | C0700219 | Cigarette Smoking                                                      | 2006-2010  |
+|        1 | C0055723 | Cilazapril                                                             | 2001-2005  |
+|        2 | C0055723 | Cilazapril                                                             | 2006-2010  |
+|        1 | C0055729 | cilostazol                                                             | 1996-2000  |
+|        1 | C0520526 | cisplatin/cyclophosphamide/doxorubicin/etoposide chemotherapy protocol | 2001-2005  |
+|        4 | C0520526 | cisplatin/cyclophosphamide/doxorubicin/etoposide chemotherapy protocol | 2006-2010  |
+|        1 | C0520526 | cisplatin/cyclophosphamide/doxorubicin/etoposide chemotherapy protocol | 2011-2013  |
+|        1 | C0175721 | Clamp                                                                  | 2011-2013  |
+|        1 | C0304503 | Class Ia antiarrhythmic drug                                           | 1991-1995  |
+|        1 | C0304503 | Class Ia antiarrhythmic drug                                           | 2001-2005  |
+|        1 | C0304505 | Class Ic antiarrhythmic drug                                           | 1991-1995  |
+|        4 | C0304505 | Class Ic antiarrhythmic drug                                           | 1996-2000  |
+|        2 | C0304505 | Class Ic antiarrhythmic drug                                           | 2001-2005  |
+|        3 | C0304505 | Class Ic antiarrhythmic drug                                           | 2006-2010  |
+|        3 | C0304505 | Class Ic antiarrhythmic drug                                           | 2011-2013  |
+|        4 | C0360703 | Class III antiarrhythmic drug                                          | 1996-2000  |
+|        4 | C0360703 | Class III antiarrhythmic drug                                          | 2001-2005  |
+|        7 | C0360703 | Class III antiarrhythmic drug                                          | 2006-2010  |
+|        4 | C0360703 | Class III antiarrhythmic drug                                          | 2011-2013  |
+|        1 | C1516615 | Clinical Management                                                    | 2011-2013  |
+|        1 | C1516635 | Clinical Treatment                                                     | 2011-2013  |
+|        1 | C1283066 | Clipping                                                               | 2001-2005  |
+|        1 | C0009014 | Clonidine                                                              | 2001-2005  |
+|        1 | C0009014 | Clonidine                                                              | 2011-2013  |
+|        1 | C0070166 | clopidogrel                                                            | 2001-2005  |
+|        8 | C0070166 | clopidogrel                                                            | 2006-2010  |
+|        8 | C0070166 | clopidogrel                                                            | 2011-2013  |
+|        1 | C0189965 | Closure of defect of interatrial septum NOS                            | 2006-2010  |
+|        1 | C0009117 | Coagulants                                                             | 1991-1995  |
+|        1 | C0009117 | Coagulants                                                             | 2011-2013  |
+|        1 | C0441509 | Coagulation procedure                                                  | 1980-1985  |
+|        2 | C0441509 | Coagulation procedure                                                  | 1996-2000  |
+|        7 | C0441509 | Coagulation procedure                                                  | 2001-2005  |
+|        2 | C0441509 | Coagulation procedure                                                  | 2006-2010  |
+|        4 | C0441509 | Coagulation procedure                                                  | 2011-2013  |
+|        1 | C0010412 | Cold Therapy                                                           | 2001-2005  |
+|        1 | C0009429 | Combined Modality Therapy                                              | 1991-1995  |
+|        4 | C0009429 | Combined Modality Therapy                                              | 2001-2005  |
+|        3 | C0009429 | Combined Modality Therapy                                              | 2006-2010  |
+|        1 | C0009429 | Combined Modality Therapy                                              | 2011-2013  |
+|        1 | C0015250 | Complete excision                                                      | 2001-2005  |
+|        1 | C1292781 | Complex procedure                                                      | 2001-2005  |
+|        2 | C1292781 | Complex procedure                                                      | 2011-2013  |
+|        1 | C0079159 | Conscious Sedation                                                     | 2006-2010  |
+|        2 | C0459914 | Conservative therapy                                                   | 2011-2013  |
+|        1 | C0420200 | Continuous ECG monitoring                                              | 2011-2013  |
+|        1 | C1511497 | Continuous Intravenous Infusion                                        | 1996-2000  |
+|        1 | C0199451 | Continuous Positive Airway Pressure                                    | 2011-2013  |
+|        1 | C1521745 | Conventional Surgery                                                   | 2001-2005  |
+|        1 | C0009953 | Convulsive therapy                                                     | 2001-2005  |
+|        1 | C0009953 | Convulsive therapy                                                     | 2006-2010  |
+|        1 | C0701076 | Cordarone                                                              | 1980-1985  |
+|        1 | C0701076 | Cordarone                                                              | 1986-1990  |
+|        2 | C0701076 | Cordarone                                                              | 1991-1995  |
+|        4 | C0010055 | Coronary Artery Bypass Surgery                                         | 1996-2000  |
+|       10 | C0010055 | Coronary Artery Bypass Surgery                                         | 2001-2005  |
+|       14 | C0010055 | Coronary Artery Bypass Surgery                                         | 2006-2010  |
+|        8 | C0010055 | Coronary Artery Bypass Surgery                                         | 2011-2013  |
+|        2 | C0877341 | Coronary revascularisation                                             | 2011-2013  |
+|        4 | C0397415 | Corridor operation                                                     | 1991-1995  |
+|        1 | C0397415 | Corridor operation                                                     | 2006-2010  |
+|        1 | C0397415 | Corridor operation                                                     | 2011-2013  |
+|        1 | C0699129 | Coumadin                                                               | 1996-2000  |
+|        3 | C0699129 | Coumadin                                                               | 2001-2005  |
+|        3 | C0699129 | Coumadin                                                               | 2006-2010  |
+|        4 | C0699129 | Coumadin                                                               | 2011-2013  |
+|        1 | C0010206 | coumarin                                                               | 1996-2000  |
+|        2 | C0010206 | coumarin                                                               | 2001-2005  |
+|        1 | C0010207 | Coumarins                                                              | 2001-2005  |
+|        1 | C0010207 | Coumarins                                                              | 2006-2010  |
+|        1 | C0010207 | Coumarins                                                              | 2011-2013  |
+|        1 | C0010210 | Counseling                                                             | 2011-2013  |
+|        1 | C0180153 | Covers                                                                 | 2001-2005  |
+|       12 | C1260336 | Cox-maze procedure                                                     | 1996-2000  |
+|       18 | C1260336 | Cox-maze procedure                                                     | 2001-2005  |
+|       27 | C1260336 | Cox-maze procedure                                                     | 2006-2010  |
+|       19 | C1260336 | Cox-maze procedure                                                     | 2011-2013  |
+|        1 | C1322646 | CRT-D                                                                  | 2011-2013  |
+|        1 | C0010408 | Cryosurgery                                                            | 1996-2000  |
+|       13 | C0010408 | Cryosurgery                                                            | 2001-2005  |
+|       25 | C0010408 | Cryosurgery                                                            | 2006-2010  |
+|       15 | C0010408 | Cryosurgery                                                            | 2011-2013  |
+|        2 | C1511562 | Curative Surgery                                                       | 2001-2005  |
+|        1 | C0280573 | cytarabine/daunorubicin protocol                                       | 1996-2000  |
+|        1 | C0280573 | cytarabine/daunorubicin protocol                                       | 2011-2013  |
+|        1 | C0199974 | Cytokine therapy                                                       | 2006-2010  |
+|        1 | C0206461 | Dalteparin                                                             | 2006-2010  |
+|        1 | C0857735 | DC shock                                                               | 1986-1990  |
+|        1 | C0857735 | DC shock                                                               | 2001-2005  |
+|        1 | C0857735 | DC shock                                                               | 2006-2010  |
+|        1 | C0494014 | DEFIBRILLATOR, IMPLANTABLE, DUAL-CHAMBER                               | 1996-2000  |
+|        1 | C0494014 | DEFIBRILLATOR, IMPLANTABLE, DUAL-CHAMBER                               | 2001-2005  |
+|        1 | C0494014 | DEFIBRILLATOR, IMPLANTABLE, DUAL-CHAMBER                               | 2006-2010  |
+|        1 | C0180307 | Defibrillators                                                         | 1991-1995  |
+|        6 | C0180307 | Defibrillators                                                         | 1996-2000  |
+|       15 | C0180307 | Defibrillators                                                         | 2001-2005  |
+|        3 | C0180307 | Defibrillators                                                         | 2006-2010  |
+|        1 | C0180307 | Defibrillators                                                         | 2011-2013  |
+|        3 | C0162589 | Defibrillators, Implantable                                            | 1991-1995  |
+|        7 | C0162589 | Defibrillators, Implantable                                            | 1996-2000  |
+|        7 | C0162589 | Defibrillators, Implantable                                            | 2001-2005  |
+|        6 | C0162589 | Defibrillators, Implantable                                            | 2006-2010  |
+|        1 | C0162589 | Defibrillators, Implantable                                            | 2011-2013  |
+|        1 | C0308779 | DELIVER                                                                | 2006-2010  |
+|        1 | C0011307 | Denervation                                                            | 1996-2000  |
+|        1 | C0011307 | Denervation                                                            | 2001-2005  |
+|        2 | C0011307 | Denervation                                                            | 2006-2010  |
+|        4 | C0011307 | Denervation                                                            | 2011-2013  |
+|        1 | C1511790 | Detection                                                              | 1980-1985  |
+|        2 | C1511790 | Detection                                                              | 1991-1995  |
+|        4 | C1511790 | Detection                                                              | 1996-2000  |
+|        4 | C1511790 | Detection                                                              | 2001-2005  |
+|        4 | C1511790 | Detection                                                              | 2006-2010  |
+|        6 | C1511790 | Detection                                                              | 2011-2013  |
+|        5 | C1504335 | Device therapy                                                         | 2001-2005  |
+|        3 | C1504335 | Device therapy                                                         | 2006-2010  |
+|        1 | C1504335 | Device therapy                                                         | 2011-2013  |
+|        1 | C0280858 | Dexverapamil                                                           | 2001-2005  |
+|        2 | C0011900 | Diagnosis                                                              | 1991-1995  |
+|        1 | C0011900 | Diagnosis                                                              | 1996-2000  |
+|        9 | C0011900 | Diagnosis                                                              | 2001-2005  |
+|        7 | C0011900 | Diagnosis                                                              | 2006-2010  |
+|        3 | C0011900 | Diagnosis                                                              | 2011-2013  |
+|        1 | C1273532 | Diagnostic device                                                      | 2011-2013  |
+|        2 | C0011946 | Dialysis procedure                                                     | 2011-2013  |
+|        1 | C0012203 | Diethylstilbestrol                                                     | 2011-2013  |
+|        1 | C0058012 | digitalin                                                              | 2006-2010  |
+|        2 | C0012253 | Digitalis Glycosides                                                   | 1996-2000  |
+|        1 | C0304520 | Digitalis preparation                                                  | 1986-1990  |
+|        1 | C0743200 | DIGITALIS THERAPY                                                      | 1986-1990  |
+|        8 | C0012265 | Digoxin                                                                | 1980-1985  |
+|       19 | C0012265 | Digoxin                                                                | 1986-1990  |
+|       24 | C0012265 | Digoxin                                                                | 1991-1995  |
+|       19 | C0012265 | Digoxin                                                                | 1996-2000  |
+|       18 | C0012265 | Digoxin                                                                | 2001-2005  |
+|       17 | C0012265 | Digoxin                                                                | 2006-2010  |
+|        9 | C0012265 | Digoxin                                                                | 2011-2013  |
+|        1 | C0743204 | DIGOXIN TREATMENT                                                      | 1991-1995  |
+|        1 | C0743204 | DIGOXIN TREATMENT                                                      | 1996-2000  |
+|        1 | C0743204 | DIGOXIN TREATMENT                                                      | 2006-2010  |
+|        1 | C0220821 | dihydropyridine                                                        | 1996-2000  |
+|        1 | C0012373 | Diltiazem                                                              | 1980-1985  |
+|        8 | C0012373 | Diltiazem                                                              | 1986-1990  |
+|       10 | C0012373 | Diltiazem                                                              | 1991-1995  |
+|       13 | C0012373 | Diltiazem                                                              | 1996-2000  |
+|       12 | C0012373 | Diltiazem                                                              | 2001-2005  |
+|        9 | C0012373 | Diltiazem                                                              | 2006-2010  |
+|        6 | C0012373 | Diltiazem                                                              | 2011-2013  |
+|        1 | C0301360 | Dimethoxyamphetamine                                                   | 2006-2010  |
+|        4 | C0012544 | Diphosphonates                                                         | 2006-2010  |
+|        2 | C0012544 | Diphosphonates                                                         | 2011-2013  |
+|        2 | C0542380 | Direct current cardioversion                                           | 1980-1985  |
+|        2 | C0542380 | Direct current cardioversion                                           | 1986-1990  |
+|        7 | C0542380 | Direct current cardioversion                                           | 1991-1995  |
+|        9 | C0542380 | Direct current cardioversion                                           | 1996-2000  |
+|       19 | C0542380 | Direct current cardioversion                                           | 2001-2005  |
+|       21 | C0542380 | Direct current cardioversion                                           | 2006-2010  |
+|       14 | C0542380 | Direct current cardioversion                                           | 2011-2013  |
+|        1 | C0556903 | Direct current therapy                                                 | 1991-1995  |
+|        5 | C1532225 | Direct thrombin inhibitor                                              | 2001-2005  |
+|        2 | C1532225 | Direct thrombin inhibitor                                              | 2006-2010  |
+|        8 | C1532225 | Direct thrombin inhibitor                                              | 2011-2013  |
+|        1 | C0743220 | DISCHARGE PROGRAM                                                      | 2011-2013  |
+|        1 | C0457454 | Discontinuation                                                        | 2006-2010  |
+|        1 | C0457454 | Discontinuation                                                        | 2011-2013  |
+|        3 | C0376636 | Disease Management                                                     | 2006-2010  |
+|        1 | C0012702 | Disopyramide                                                           | 1980-1985  |
+|        1 | C0012702 | Disopyramide                                                           | 1986-1990  |
+|        3 | C0012702 | Disopyramide                                                           | 1996-2000  |
+|        5 | C0012702 | Disopyramide                                                           | 2001-2005  |
+|        1 | C0012702 | Disopyramide                                                           | 2006-2010  |
+|        1 | C0012737 | Dissection                                                             | 1991-1995  |
+|        1 | C0012737 | Dissection                                                             | 1996-2000  |
+|        2 | C0012798 | Diuretics                                                              | 1980-1985  |
+|        2 | C0012798 | Diuretics                                                              | 2011-2013  |
+|        1 | C0185033 | Diversion procedure                                                    | 2011-2013  |
+|        1 | C1293097 | Division (procedure)                                                   | 1996-2000  |
+|        3 | C0012963 | Dobutamine                                                             | 1996-2000  |
+|        1 | C0246415 | docetaxel                                                              | 2011-2013  |
+|        1 | C0012968 | Docosahexaenoic Acids                                                  | 2011-2013  |
+|        1 | C1301725 | Documented                                                             | 2001-2005  |
+|        1 | C0114771 | dofetilide                                                             | 1991-1995  |
+|       14 | C0114771 | dofetilide                                                             | 1996-2000  |
+|       14 | C0114771 | dofetilide                                                             | 2001-2005  |
+|        2 | C0114771 | dofetilide                                                             | 2006-2010  |
+|        2 | C0114771 | dofetilide                                                             | 2011-2013  |
+|        1 | C0190170 | Double valve replacement                                               | 1980-1985  |
+|        1 | C0190170 | Double valve replacement                                               | 1996-2000  |
+|        1 | C0013103 | Drainage procedure                                                     | 2006-2010  |
+|        1 | C0013103 | Drainage procedure                                                     | 2011-2013  |
+|        1 | C0766326 | dronedarone                                                            | 2001-2005  |
+|        8 | C0766326 | dronedarone                                                            | 2006-2010  |
+|        5 | C0766326 | dronedarone                                                            | 2011-2013  |
+|        2 | C1322815 | Drug eluting stent                                                     | 2006-2010  |
+|        2 | C1322815 | Drug eluting stent                                                     | 2011-2013  |
+|        1 | C0013187 | Drug Infusion Systems                                                  | 1996-2000  |
+|        1 | C0085421 | Drug Monitoring                                                        | 2006-2010  |
+|        2 | C0013230 | Drugs, Investigational                                                 | 2001-2005  |
+|        1 | C0013230 | Drugs, Investigational                                                 | 2006-2010  |
+|        2 | C0725893 | Dual Chamber                                                           | 2001-2005  |
+|        1 | C1510538 | E-Therapy                                                              | 2006-2010  |
+|        1 | C0814435 | early identification                                                   | 2001-2005  |
+|        1 | C0814435 | early identification                                                   | 2011-2013  |
+|        1 | C0013459 | Early Mobilization                                                     | 2011-2013  |
+|        1 | C0183129 | Echocardiographs                                                       | 2001-2005  |
+|        1 | C0013516 | Echocardiography                                                       | 2011-2013  |
+|        2 | C0281163 | educational intervention                                               | 2011-2013  |
+|        1 | C0000545 | Eicosapentaenoic Acid                                                  | 2011-2013  |
+|        1 | C0199548 | Elective electrical cardioversion of arrhythmia, external              | 1991-1995  |
+|        6 | C0199548 | Elective electrical cardioversion of arrhythmia, external              | 1996-2000  |
+|       12 | C0199548 | Elective electrical cardioversion of arrhythmia, external              | 2001-2005  |
+|       11 | C0199548 | Elective electrical cardioversion of arrhythmia, external              | 2006-2010  |
+|        1 | C0199548 | Elective electrical cardioversion of arrhythmia, external              | 2011-2013  |
+|        1 | C0747973 | Elective procedure                                                     | 2001-2005  |
+|       12 | C0013778 | Electric Countershock                                                  | 1980-1985  |
+|        7 | C0013778 | Electric Countershock                                                  | 1986-1990  |
+|       31 | C0013778 | Electric Countershock                                                  | 1991-1995  |
+|      106 | C0013778 | Electric Countershock                                                  | 1996-2000  |
+|      183 | C0013778 | Electric Countershock                                                  | 2001-2005  |
+|      180 | C0013778 | Electric Countershock                                                  | 2006-2010  |
+|       84 | C0013778 | Electric Countershock                                                  | 2011-2013  |
+|        1 | C0013787 | Electric Stimulation Therapy                                           | 1996-2000  |
+|        1 | C0879009 | Electroanatomical Mapping Systems                                      | 2001-2005  |
+|        1 | C0180580 | Electrocardiographic monitoring                                        | 1996-2000  |
+|        1 | C0180580 | Electrocardiographic monitoring                                        | 2001-2005  |
+|        3 | C0180580 | Electrocardiographic monitoring                                        | 2006-2010  |
+|        3 | C0180580 | Electrocardiographic monitoring                                        | 2011-2013  |
+|        1 | C0180600 | Electrocardiographic recorders                                         | 2011-2013  |
+|        1 | C0854632 | Electrolyte replacement                                                | 2006-2010  |
+|        1 | C0162575 | Embolectomy                                                            | 1996-2000  |
+|        1 | C0162575 | Embolectomy                                                            | 2001-2005  |
+|        1 | C0162575 | Embolectomy                                                            | 2011-2013  |
+|        1 | C0013931 | Embolization, Therapeutic                                              | 1980-1985  |
+|        3 | C0013931 | Embolization, Therapeutic                                              | 1986-1990  |
+|        1 | C0013931 | Embolization, Therapeutic                                              | 1991-1995  |
+|        5 | C0013931 | Embolization, Therapeutic                                              | 1996-2000  |
+|        1 | C0013931 | Embolization, Therapeutic                                              | 2001-2005  |
+|        3 | C0013931 | Embolization, Therapeutic                                              | 2011-2013  |
+|        1 | C1532296 | Emergency CABG                                                         | 2006-2010  |
+|        1 | C1527398 | Emergency Care                                                         | 1991-1995  |
+|        1 | C0013961 | Emergency medical service                                              | 2006-2010  |
+|        2 | C0553618 | Emergency visit                                                        | 2006-2010  |
+|        1 | C0553618 | Emergency visit                                                        | 2011-2013  |
+|        1 | C1299597 | Empirical therapy                                                      | 1996-2000  |
+|        1 | C0014025 | Enalapril                                                              | 2006-2010  |
+|        1 | C0085251 | Encainide                                                              | 1980-1985  |
+|        3 | C0085251 | Encainide                                                              | 1986-1990  |
+|        1 | C0014099 | Endarterectomy, Carotid                                                | 2001-2005  |
+|        1 | C0014099 | Endarterectomy, Carotid                                                | 2006-2010  |
+|        1 | C0279025 | Endocrine therapy                                                      | 1996-2000  |
+|        1 | C0279025 | Endocrine therapy                                                      | 2011-2013  |
+|        1 | C0206460 | Enoxaparin                                                             | 2001-2005  |
+|        5 | C0206460 | Enoxaparin                                                             | 2006-2010  |
+|        1 | C0961485 | eplerenone                                                             | 2011-2013  |
+|        1 | C0033567 | Epoprostenol                                                           | 1991-1995  |
+|        2 | C0086252 | Erythrocyte Transfusion                                                | 2006-2010  |
+|        1 | C0014806 | Erythromycin                                                           | 1996-2000  |
+|        2 | C0116569 | esmolol                                                                | 1986-1990  |
+|        2 | C0116569 | esmolol                                                                | 1991-1995  |
+|        5 | C0116569 | esmolol                                                                | 2001-2005  |
+|        2 | C0116569 | esmolol                                                                | 2006-2010  |
+|        1 | C0116569 | esmolol                                                                | 2011-2013  |
+|        1 | C0085198 | Esophagectomy                                                          | 1996-2000  |
+|        1 | C0085198 | Esophagectomy                                                          | 2011-2013  |
+|        1 | C0001962 | Ethanol                                                                | 1986-1990  |
+|        3 | C0001962 | Ethanol                                                                | 1991-1995  |
+|        1 | C0001962 | Ethanol                                                                | 1996-2000  |
+|        1 | C0001962 | Ethanol                                                                | 2011-2013  |
+|        1 | C0728940 | Excision                                                               | 1991-1995  |
+|        3 | C0728940 | Excision                                                               | 1996-2000  |
+|        1 | C0728940 | Excision                                                               | 2011-2013  |
+|        1 | C0185279 | Excision of muscle NOS                                                 | 2001-2005  |
+|        2 | C0185279 | Excision of muscle NOS                                                 | 2011-2013  |
+|        1 | C0015259 | Exercise                                                               | 1980-1985  |
+|        5 | C0015259 | Exercise                                                               | 1986-1990  |
+|        5 | C0015259 | Exercise                                                               | 1991-1995  |
+|        6 | C0015259 | Exercise                                                               | 1996-2000  |
+|        8 | C0015259 | Exercise                                                               | 2001-2005  |
+|        5 | C0015259 | Exercise                                                               | 2006-2010  |
+|        1 | C0015259 | Exercise                                                               | 2011-2013  |
+|        1 | C0022206 | Exercise, Isometric                                                    | 2006-2010  |
+|        1 | C1280903 | Exploration procedure                                                  | 2006-2010  |
+|        2 | C1280903 | Exploration procedure                                                  | 2011-2013  |
+|        1 | C0185117 | Expression procedure                                                   | 1996-2000  |
+|        5 | C0185117 | Expression procedure                                                   | 2001-2005  |
+|        9 | C0185117 | Expression procedure                                                   | 2006-2010  |
+|        4 | C0185117 | Expression procedure                                                   | 2011-2013  |
+|        3 | C0185115 | Extraction                                                             | 2006-2010  |
+|        3 | C0185115 | Extraction                                                             | 2011-2013  |
+|        1 | C0396583 | Extrapleural pneumonectomy                                             | 2006-2010  |
+|        1 | C1142985 | ezetimibe                                                              | 2011-2013  |
+|        1 | C0015506 | Factor VIII                                                            | 2006-2010  |
+|        1 | C0082544 | Falepsin                                                               | 1986-1990  |
+|        1 | C0015689 | Fatty Acids, Omega-3                                                   | 1996-2000  |
+|        2 | C0015689 | Fatty Acids, Omega-3                                                   | 2006-2010  |
+|        7 | C0015689 | Fatty Acids, Omega-3                                                   | 2011-2013  |
+|        2 | C0309049 | FAVOR                                                                  | 2001-2005  |
+|        2 | C0309049 | FAVOR                                                                  | 2006-2010  |
+|        1 | C0309049 | FAVOR                                                                  | 2011-2013  |
+|        3 | C0016018 | Fibrinolytic Agents                                                    | 1996-2000  |
+|        1 | C0016018 | Fibrinolytic Agents                                                    | 2006-2010  |
+|        2 | C0016018 | Fibrinolytic Agents                                                    | 2011-2013  |
+|        1 | C0016157 | Fish Oils                                                              | 2006-2010  |
+|        4 | C0016157 | Fish Oils                                                              | 2011-2013  |
+|        1 | C0016229 | Flecainide                                                             | 1980-1985  |
+|       10 | C0016229 | Flecainide                                                             | 1986-1990  |
+|       13 | C0016229 | Flecainide                                                             | 1991-1995  |
+|        1 | C0016229 | Flecainide                                                             | 1996-2000  |
+|       16 | C0016229 | Flecainide                                                             | 2001-2005  |
+|       11 | C0016229 | Flecainide                                                             | 2006-2010  |
+|       10 | C0016229 | Flecainide                                                             | 2011-2013  |
+|        2 | C0086303 | Flecainide Acetate                                                     | 1980-1985  |
+|        3 | C0086303 | Flecainide Acetate                                                     | 1986-1990  |
+|        3 | C0086303 | Flecainide Acetate                                                     | 1996-2000  |
+|        1 | C0086303 | Flecainide Acetate                                                     | 2001-2005  |
+|        1 | C0060455 | flestolol                                                              | 1986-1990  |
+|        1 | C0060470 | flosequinan                                                            | 1996-2000  |
+|        1 | C0598447 | fluorophore                                                            | 1991-1995  |
+|        1 | C1522577 | follow-up                                                              | 1986-1990  |
+|        3 | C1522577 | follow-up                                                              | 1991-1995  |
+|        8 | C1522577 | follow-up                                                              | 1996-2000  |
+|        6 | C1522577 | follow-up                                                              | 2001-2005  |
+|       17 | C1522577 | follow-up                                                              | 2006-2010  |
+|       11 | C1522577 | follow-up                                                              | 2011-2013  |
+|        1 | C1098510 | fondaparinux                                                           | 2011-2013  |
+|        2 | C0033325 | Forecast of outcome                                                    | 2006-2010  |
+|        1 | C0189876 | Formation of pericardial baffle, interatrial                           | 2011-2013  |
+|        1 | C0185061 | fragmentation procedure                                                | 1991-1995  |
+|        1 | C0180979 | Frame                                                                  | 2001-2005  |
+|        1 | C0016986 | Gallopamil                                                             | 1980-1985  |
+|        1 | C0002915 | General Anesthesia                                                     | 2006-2010  |
+|        1 | C0061231 | geranylgeranylacetone                                                  | 2006-2010  |
+|        1 | C0017725 | Glucose                                                                | 2006-2010  |
+|        1 | C0017861 | Glycerol                                                               | 2006-2010  |
+|        1 | C0033971 | Group Psychotherapy                                                    | 1980-1985  |
+|        1 | C0033971 | Group Psychotherapy                                                    | 2011-2013  |
+|        1 | C0525059 | Guideline Adherence                                                    | 2006-2010  |
+|        1 | C0669960 | HA 7                                                                   | 2006-2010  |
+|        1 | C0336936 | Handball                                                               | 2011-2013  |
+|        2 | C0086388 | Health Care                                                            | 2006-2010  |
+|        2 | C0086388 | Health Care                                                            | 2011-2013  |
+|        1 | C0018791 | Heart Arrest, Induced                                                  | 2001-2005  |
+|        1 | C0744682 | HEART RATE TARGET                                                      | 2006-2010  |
+|        1 | C0018823 | Heart Transplantation                                                  | 2006-2010  |
+|        1 | C0018825 | Heart Valve Prosthesis                                                 | 1996-2000  |
+|        2 | C0190173 | Heart valve replacement                                                | 2011-2013  |
+|        5 | C0493527 | HEART-VALVE, MECHANICAL                                                | 2006-2010  |
+|        1 | C0019134 | Heparin                                                                | 1986-1990  |
+|        2 | C0019134 | Heparin                                                                | 2001-2005  |
+|        2 | C0019139 | Heparin, Low-Molecular-Weight                                          | 1996-2000  |
+|        8 | C0019139 | Heparin, Low-Molecular-Weight                                          | 2001-2005  |
+|        5 | C0019139 | Heparin, Low-Molecular-Weight                                          | 2006-2010  |
+|        3 | C0019139 | Heparin, Low-Molecular-Weight                                          | 2011-2013  |
+|        1 | C1608985 | High frequency ablation                                                | 1996-2000  |
+|        1 | C0019948 | Hospital Administration                                                | 2011-2013  |
+|        7 | C0184666 | Hospital admission                                                     | 2001-2005  |
+|        5 | C0184666 | Hospital admission                                                     | 2006-2010  |
+|        2 | C0184666 | Hospital admission                                                     | 2011-2013  |
+|        2 | C0600290 | Hospital Readmissions                                                  | 2006-2010  |
+|        2 | C0600290 | Hospital Readmissions                                                  | 2011-2013  |
+|        3 | C0019993 | Hospitalization                                                        | 1996-2000  |
+|       22 | C0019993 | Hospitalization                                                        | 2001-2005  |
+|       32 | C0019993 | Hospitalization                                                        | 2006-2010  |
+|       47 | C0019993 | Hospitalization                                                        | 2011-2013  |
+|        1 | C0020223 | Hydralazine                                                            | 2011-2013  |
+|        1 | C1512523 | hydrochloride                                                          | 1980-1985  |
+|        2 | C1512523 | hydrochloride                                                          | 2001-2005  |
+|        2 | C1512523 | hydrochloride                                                          | 2006-2010  |
+|        2 | C1512523 | hydrochloride                                                          | 2011-2013  |
+|        1 | C0063103 | hydroquinidine                                                         | 1980-1985  |
+|        1 | C0063103 | hydroquinidine                                                         | 1996-2000  |
+|        1 | C0360714 | Hydroxymethylglutaryl-CoA Reductase Inhibitors                         | 2001-2005  |
+|       15 | C0360714 | Hydroxymethylglutaryl-CoA Reductase Inhibitors                         | 2006-2010  |
+|        9 | C0360714 | Hydroxymethylglutaryl-CoA Reductase Inhibitors                         | 2011-2013  |
+|       14 | C0082966 | ibutilide                                                              | 1996-2000  |
+|       14 | C0082966 | ibutilide                                                              | 2001-2005  |
+|        6 | C0082966 | ibutilide                                                              | 2006-2010  |
+|        6 | C0082966 | ibutilide                                                              | 2011-2013  |
+|        1 | C0086190 | Illicit Drugs                                                          | 2006-2010  |
+|        1 | C0079595 | Imaging Techniques                                                     | 2006-2010  |
+|        1 | C0020944 | Immobilization                                                         | 2006-2010  |
+|        1 | C0848753 | Implant, pacemaker                                                     | 2006-2010  |
+|        2 | C0021107 | Implantation procedure                                                 | 1991-1995  |
+|        9 | C0021107 | Implantation procedure                                                 | 1996-2000  |
+|       13 | C0021107 | Implantation procedure                                                 | 2001-2005  |
+|       17 | C0021107 | Implantation procedure                                                 | 2006-2010  |
+|       16 | C0021107 | Implantation procedure                                                 | 2011-2013  |
+|        1 | C0021102 | Implants                                                               | 2011-2013  |
+|        1 | C0152277 | Incision and drainage                                                  | 1991-1995  |
+|        1 | C0152277 | Incision and drainage                                                  | 1996-2000  |
+|        2 | C0152277 | Incision and drainage                                                  | 2006-2010  |
+|        1 | C0185792 | Incision of sternum                                                    | 2011-2013  |
+|        1 | C0204525 | Individual psychotherapy                                               | 1996-2000  |
+|        1 | C0063479 | indobufen                                                              | 2001-2005  |
+|        3 | C0857127 | Induction                                                              | 2006-2010  |
+|        1 | C0857127 | Induction                                                              | 2011-2013  |
+|        1 | C0007439 | Indwelling Catheter                                                    | 2006-2010  |
+|        1 | C1512721 | Inferential Current Treatment                                          | 2006-2010  |
+|        1 | C1318493 | Inflation procedure                                                    | 1996-2000  |
+|        1 | C0574032 | Infusion procedures                                                    | 2006-2010  |
+|        5 | C1533685 | Injection procedure                                                    | 2006-2010  |
+|        3 | C1533685 | Injection procedure                                                    | 2011-2013  |
+|        1 | C0304509 | Inotropic agent                                                        | 1996-2000  |
+|        1 | C0021641 | Insulin                                                                | 2001-2005  |
+|        1 | C0021688 | Insurance, Long-Term Care                                              | 2006-2010  |
+|        2 | C0419060 | Internal cardioversion                                                 | 1991-1995  |
+|       19 | C0419060 | Internal cardioversion                                                 | 1996-2000  |
+|       28 | C0419060 | Internal cardioversion                                                 | 2001-2005  |
+|        9 | C0419060 | Internal cardioversion                                                 | 2006-2010  |
+|        1 | C1273869 | Intervention regimes                                                   | 1986-1990  |
+|        1 | C1273869 | Intervention regimes                                                   | 1991-1995  |
+|       14 | C1273869 | Intervention regimes                                                   | 1996-2000  |
+|       19 | C1273869 | Intervention regimes                                                   | 2001-2005  |
+|       27 | C1273869 | Intervention regimes                                                   | 2006-2010  |
+|       33 | C1273869 | Intervention regimes                                                   | 2011-2013  |
+|        1 | C0702122 | Intra-aortic balloon pump device                                       | 1996-2000  |
+|        1 | C0021860 | Intra-Aortic Balloon Pumping                                           | 1991-1995  |
+|        1 | C0412775 | Intravenous sedation                                                   | 1996-2000  |
+|        1 | C0455142 | Intravenous therapy                                                    | 1996-2000  |
+|        2 | C0455142 | Intravenous therapy                                                    | 2011-2013  |
+|        2 | C1293116 | Introduction procedure                                                 | 1996-2000  |
+|        1 | C1293116 | Introduction procedure                                                 | 2001-2005  |
+|        7 | C1293116 | Introduction procedure                                                 | 2006-2010  |
+|        6 | C1293116 | Introduction procedure                                                 | 2011-2013  |
+|        1 | C0683468 | invasive treatment                                                     | 2001-2005  |
+|        1 | C0683468 | invasive treatment                                                     | 2006-2010  |
+|        3 | C0683468 | invasive treatment                                                     | 2011-2013  |
+|        1 | C0430007 | investigation                                                          | 1991-1995  |
+|        1 | C0430007 | investigation                                                          | 1996-2000  |
+|        7 | C0430007 | investigation                                                          | 2001-2005  |
+|        3 | C0430007 | investigation                                                          | 2006-2010  |
+|        2 | C0430007 | investigation                                                          | 2011-2013  |
+|        1 | C0021968 | Iodine                                                                 | 2006-2010  |
+|        1 | C0022009 | Ion Channel                                                            | 2006-2010  |
+|        1 | C0022024 | Iontophoresis                                                          | 2001-2005  |
+|        1 | C0022024 | Iontophoresis                                                          | 2006-2010  |
+|        1 | C0288171 | irbesartan                                                             | 2006-2010  |
+|        1 | C0288171 | irbesartan                                                             | 2011-2013  |
+|        1 | C0376466 | Ischemic Preconditioning                                               | 2001-2005  |
+|        1 | C0204727 | Isolation procedure                                                    | 1991-1995  |
+|        2 | C0204727 | Isolation procedure                                                    | 1996-2000  |
+|       32 | C0204727 | Isolation procedure                                                    | 2001-2005  |
+|       64 | C0204727 | Isolation procedure                                                    | 2006-2010  |
+|       40 | C0204727 | Isolation procedure                                                    | 2011-2013  |
+|        1 | C0022245 | Isoproterenol                                                          | 2001-2005  |
+|        3 | C0022245 | Isoproterenol                                                          | 2006-2010  |
+|        1 | C0022245 | Isoproterenol                                                          | 2011-2013  |
+|        1 | C0454287 | Isotonic exercise                                                      | 2001-2005  |
+|        1 | C0124637 | Kinilentin                                                             | 1986-1990  |
+|        1 | C1618093 | Kordaron                                                               | 1991-1995  |
+|        3 | C0905464 | landiolol                                                              | 2006-2010  |
+|        9 | C0905464 | landiolol                                                              | 2011-2013  |
+|        1 | C0181586 | Leads                                                                  | 2011-2013  |
+|        1 | C0023660 | Lidocaine                                                              | 1986-1990  |
+|        1 | C0023660 | Lidocaine                                                              | 1996-2000  |
+|        1 | C0023660 | Lidocaine                                                              | 2006-2010  |
+|        1 | C0023665 | Lidoflazine                                                            | 1980-1985  |
+|        1 | C0730543 | Lifestyle counseling                                                   | 2011-2013  |
+|        1 | C0023690 | Ligation                                                               | 2006-2010  |
+|        2 | C0023690 | Ligation                                                               | 2011-2013  |
+|        1 | C0585943 | Lipid-lowering therapy                                                 | 2006-2010  |
+|        1 | C0585943 | Lipid-lowering therapy                                                 | 2011-2013  |
+|        1 | C0023928 | Lobectomy                                                              | 2011-2013  |
+|        1 | C0023977 | long-term care                                                         | 1996-2000  |
+|        3 | C0023977 | long-term care                                                         | 2006-2010  |
+|        2 | C0023977 | long-term care                                                         | 2011-2013  |
+|        1 | C0420257 | Long-term drug therapy                                                 | 2006-2010  |
+|        1 | C1517942 | Longterm Follow-up                                                     | 2011-2013  |
+|        2 | C0126174 | Losartan                                                               | 2001-2005  |
+|        1 | C0024467 | Magnesium                                                              | 2001-2005  |
+|        1 | C0024480 | Magnesium Sulfate                                                      | 1996-2000  |
+|        2 | C0024480 | Magnesium Sulfate                                                      | 2001-2005  |
+|        1 | C0024480 | Magnesium Sulfate                                                      | 2011-2013  |
+|        2 | C0181706 | Magnetocardiographs                                                    | 2001-2005  |
+|        1 | C0181706 | Magnetocardiographs                                                    | 2006-2010  |
+|        1 | C0677908 | Maintenance therapy                                                    | 1986-1990  |
+|        1 | C0677908 | Maintenance therapy                                                    | 1996-2000  |
+|        1 | C0677908 | Maintenance therapy                                                    | 2011-2013  |
+|        2 | C0086583 | Managed Care                                                           | 1996-2000  |
+|        1 | C1273870 | Management procedure                                                   | 1980-1985  |
+|        1 | C1273870 | Management procedure                                                   | 1986-1990  |
+|        2 | C1273870 | Management procedure                                                   | 1991-1995  |
+|       10 | C1273870 | Management procedure                                                   | 1996-2000  |
+|       25 | C1273870 | Management procedure                                                   | 2001-2005  |
+|       38 | C1273870 | Management procedure                                                   | 2006-2010  |
+|       41 | C1273870 | Management procedure                                                   | 2011-2013  |
+|       22 | C0397414 | Maze operation                                                         | 1991-1995  |
+|       58 | C0397414 | Maze operation                                                         | 1996-2000  |
+|       58 | C0397414 | Maze operation                                                         | 2001-2005  |
+|       60 | C0397414 | Maze operation                                                         | 2006-2010  |
+|       39 | C0397414 | Maze operation                                                         | 2011-2013  |
+|        1 | C0199470 | Mechanical ventilation                                                 | 2001-2005  |
+|        1 | C0418981 | Medical therapy                                                        | 1996-2000  |
+|        2 | C0418981 | Medical therapy                                                        | 2001-2005  |
+|        8 | C0418981 | Medical therapy                                                        | 2006-2010  |
+|        3 | C0418981 | Medical therapy                                                        | 2011-2013  |
+|       10 | C0150270 | Medication Management                                                  | 2006-2010  |
+|        4 | C0150270 | Medication Management                                                  | 2011-2013  |
+|        1 | C0849164 | Medications, blood                                                     | 2001-2005  |
+|        1 | C0849166 | Medications, cardiovascular                                            | 2001-2005  |
+|        2 | C0668961 | melagatran                                                             | 2001-2005  |
+|        1 | C0183432 | Mercury sphygmomanometer                                               | 2011-2013  |
+|        1 | C0025859 | Metoprolol                                                             | 1980-1985  |
+|        2 | C0025859 | Metoprolol                                                             | 1991-1995  |
+|        3 | C0025859 | Metoprolol                                                             | 2001-2005  |
+|        4 | C0025859 | Metoprolol                                                             | 2006-2010  |
+|        1 | C0724633 | metoprolol succinate                                                   | 2006-2010  |
+|        1 | C0699680 | Metric                                                                 | 2011-2013  |
+|        1 | C0025876 | Metyrapone                                                             | 2006-2010  |
+|        1 | C0025887 | Mexiletine                                                             | 1986-1990  |
+|        1 | C0286185 | Mibefradil                                                             | 1996-2000  |
+|        1 | C0025973 | Microelectrodes                                                        | 1986-1990  |
+|        1 | C0519382 | Mitral valve operation                                                 | 2001-2005  |
+|        1 | C0519382 | Mitral valve operation                                                 | 2006-2010  |
+|        1 | C0519382 | Mitral valve operation                                                 | 2011-2013  |
+|        1 | C0182494 | Mitral valve prosthesis                                                | 1996-2000  |
+|        1 | C0026268 | Mitral valve replacement NOS                                           | 1980-1985  |
+|        2 | C0026268 | Mitral valve replacement NOS                                           | 1991-1995  |
+|        1 | C0026268 | Mitral valve replacement NOS                                           | 1996-2000  |
+|        3 | C0026268 | Mitral valve replacement NOS                                           | 2001-2005  |
+|        5 | C0026268 | Mitral valve replacement NOS                                           | 2006-2010  |
+|        2 | C0026268 | Mitral valve replacement NOS                                           | 2011-2013  |
+|        2 | C0190080 | Mitral valvotomy                                                       | 1991-1995  |
+|        2 | C0190080 | Mitral valvotomy                                                       | 1996-2000  |
+|        2 | C0190080 | Mitral valvotomy                                                       | 2001-2005  |
+|        4 | C0190080 | Mitral valvotomy                                                       | 2006-2010  |
+|        1 | C0596972 | Monitoring Device                                                      | 2011-2013  |
+|        1 | C1139730 | Monitoring Systems                                                     | 2011-2013  |
+|        3 | C0079856 | Moricizine                                                             | 2001-2005  |
+|        2 | C0067385 | N,N-dimethylarginine                                                   | 2006-2010  |
+|        1 | C0064906 | Nafarelin                                                              | 1991-1995  |
+|        1 | C0376687 | National Hospital Discharge Survey                                     | 2006-2010  |
+|        1 | C0068475 | nebivolol                                                              | 2001-2005  |
+|        3 | C0068475 | nebivolol                                                              | 2011-2013  |
+|        1 | C0027524 | Nebulizers                                                             | 1996-2000  |
+|        1 | C0027866 | Neuromuscular Blocking Agents                                          | 2001-2005  |
+|        1 | C0394477 | Neurostimulation procedures of spinal cord tissue                      | 2011-2013  |
+|        1 | C0537145 | nibentan                                                               | 2001-2005  |
+|        4 | C0537145 | nibentan                                                               | 2006-2010  |
+|        2 | C0028066 | Nifedipine                                                             | 1980-1985  |
+|        2 | C0966645 | NIP142                                                                 | 2006-2010  |
+|        1 | C0360148 | Non-cardioselective beta-blocker                                       | 1991-1995  |
+|        1 | C0028351 | Norepinephrine                                                         | 2006-2010  |
+|        1 | C0422202 | Notifications NOS                                                      | 2001-2005  |
+|        2 | C0917852 | Novocainamide                                                          | 1980-1985  |
+|        1 | C0182025 | Occluders                                                              | 2011-2013  |
+|        3 | C0348025 | Open approach                                                          | 2006-2010  |
+|        3 | C0348025 | Open approach                                                          | 2011-2013  |
+|        1 | C0189745 | Open heart surgery                                                     | 1980-1985  |
+|        5 | C0189745 | Open heart surgery                                                     | 2001-2005  |
+|        3 | C0189745 | Open heart surgery                                                     | 2006-2010  |
+|        2 | C0189745 | Open heart surgery                                                     | 2011-2013  |
+|        1 | C0190188 | Operative procedure on coronary arteries                               | 2011-2013  |
+|        1 | C0543467 | Operative Surgical Procedures                                          | 1980-1985  |
+|        3 | C0543467 | Operative Surgical Procedures                                          | 1986-1990  |
+|       21 | C0543467 | Operative Surgical Procedures                                          | 1991-1995  |
+|       42 | C0543467 | Operative Surgical Procedures                                          | 1996-2000  |
+|       85 | C0543467 | Operative Surgical Procedures                                          | 2001-2005  |
+|      104 | C0543467 | Operative Surgical Procedures                                          | 2006-2010  |
+|       73 | C0543467 | Operative Surgical Procedures                                          | 2011-2013  |
+|        1 | C0029112 | Opium                                                                  | 1980-1985  |
+|        1 | C0422389 | Opportunistic screening                                                | 1996-2000  |
+|        3 | C0422389 | Opportunistic screening                                                | 2011-2013  |
+|        2 | C0354604 | Oral anticoagulants                                                    | 1986-1990  |
+|        1 | C0354604 | Oral anticoagulants                                                    | 1991-1995  |
+|        5 | C0354604 | Oral anticoagulants                                                    | 1996-2000  |
+|       20 | C0354604 | Oral anticoagulants                                                    | 2001-2005  |
+|       15 | C0354604 | Oral anticoagulants                                                    | 2006-2010  |
+|      115 | C0354604 | Oral anticoagulants                                                    | 2011-2013  |
+|        1 | C0360708 | Oral form verapamil                                                    | 1980-1985  |
+|        1 | C0360708 | Oral form verapamil                                                    | 1996-2000  |
+|        2 | C0175795 | Oral medication                                                        | 2006-2010  |
+|        1 | C0069590 | ORALIT                                                                 | 1996-2000  |
+|        1 | C0069590 | ORALIT                                                                 | 2001-2005  |
+|        1 | C0029904 | Ouabain                                                                | 2001-2005  |
+|        1 | C1299353 | Outpatient procedure                                                   | 2006-2010  |
+|        1 | C0030125 | p-Aminosalicylic Acid                                                  | 2001-2005  |
+|        2 | C0281945 | PACEMAKER PERMANENT                                                    | 1996-2000  |
+|        4 | C0281945 | PACEMAKER PERMANENT                                                    | 2001-2005  |
+|        2 | C0281945 | PACEMAKER PERMANENT                                                    | 2006-2010  |
+|        1 | C0810633 | Pacemakers                                                             | 1996-2000  |
+|        3 | C0810633 | Pacemakers                                                             | 2001-2005  |
+|       11 | C0810633 | Pacemakers                                                             | 2006-2010  |
+|        1 | C0810633 | Pacemakers                                                             | 2011-2013  |
+|        2 | C0722418 | Pacerone                                                               | 2006-2010  |
+|        1 | C0182158 | Pads                                                                   | 2006-2010  |
+|        1 | C0002766 | Pain management                                                        | 2011-2013  |
+|        1 | C0030231 | Palliative Care                                                        | 1991-1995  |
+|        1 | C0030231 | Palliative Care                                                        | 1996-2000  |
+|        1 | C1285158 | Palliative procedure                                                   | 2001-2005  |
+|        1 | C0017313 | patient care                                                           | 2006-2010  |
+|        1 | C0017313 | patient care                                                           | 2011-2013  |
+|        1 | C0030677 | Patient Care Management                                                | 2001-2005  |
+|        2 | C0030685 | Patient Discharge                                                      | 2001-2005  |
+|        1 | C0679831 | Patient History                                                        | 2011-2013  |
+|        1 | C1269815 | Patient identification                                                 | 1996-2000  |
+|        1 | C1269815 | Patient identification                                                 | 2001-2005  |
+|        1 | C1269815 | Patient identification                                                 | 2006-2010  |
+|        3 | C1269815 | Patient identification                                                 | 2011-2013  |
+|        5 | C0030693 | Patient Isolation                                                      | 2001-2005  |
+|        9 | C0030693 | Patient Isolation                                                      | 2006-2010  |
+|        7 | C0030693 | Patient Isolation                                                      | 2011-2013  |
+|        1 | C0242802 | Patient Selection                                                      | 2001-2005  |
+|        2 | C0242802 | Patient Selection                                                      | 2006-2010  |
+|        1 | C0843876 | Percutaneous balloon mitral valvuloplasty                              | 2001-2005  |
+|        1 | C0843876 | Percutaneous balloon mitral valvuloplasty                              | 2006-2010  |
+|        7 | C1532338 | Percutaneous coronary intervention                                     | 2006-2010  |
+|       11 | C1532338 | Percutaneous coronary intervention                                     | 2011-2013  |
+|        1 | C0190176 | Percutaneous valvuloplasty                                             | 1996-2000  |
+|        2 | C0190176 | Percutaneous valvuloplasty                                             | 2006-2010  |
+|        1 | C0242427 | Pericardiotomy                                                         | 2001-2005  |
+|        1 | C0242427 | Pericardiotomy                                                         | 2006-2010  |
+|        1 | C1519033 | Pharmacological Treatment                                              | 1996-2000  |
+|        4 | C1519033 | Pharmacological Treatment                                              | 2001-2005  |
+|        7 | C1519033 | Pharmacological Treatment                                              | 2006-2010  |
+|        2 | C1519033 | Pharmacological Treatment                                              | 2011-2013  |
+|        1 | C0013216 | Pharmacotherapy                                                        | 1980-1985  |
+|        2 | C0013216 | Pharmacotherapy                                                        | 1991-1995  |
+|        7 | C0013216 | Pharmacotherapy                                                        | 1996-2000  |
+|        5 | C0013216 | Pharmacotherapy                                                        | 2001-2005  |
+|       28 | C0013216 | Pharmacotherapy                                                        | 2006-2010  |
+|       10 | C0013216 | Pharmacotherapy                                                        | 2011-2013  |
+|        3 | C0031444 | Phenprocoumon                                                          | 2011-2013  |
+|        2 | C0031740 | Photochemotherapy                                                      | 2006-2010  |
+|        1 | C0031765 | Phototherapy                                                           | 2011-2013  |
+|        1 | C0031809 | Physical Examination                                                   | 2001-2005  |
+|        1 | C0031809 | Physical Examination                                                   | 2006-2010  |
+|        1 | C0031809 | Physical Examination                                                   | 2011-2013  |
+|        1 | C0695470 | PHYSICAL PERFORMANCE                                                   | 2011-2013  |
+|        4 | C0164155 | pilsicainide                                                           | 1996-2000  |
+|        5 | C0164155 | pilsicainide                                                           | 2001-2005  |
+|        4 | C0164155 | pilsicainide                                                           | 2006-2010  |
+|        2 | C0031937 | Pindolol                                                               | 1986-1990  |
+|        2 | C0071097 | pioglitazone                                                           | 2011-2013  |
+|        1 | C0031978 | Pirenzepine                                                            | 1986-1990  |
+|        4 | C0031978 | Pirenzepine                                                            | 1991-1995  |
+|        1 | C0298067 | pirfenidone                                                            | 2006-2010  |
+|        2 | C0032042 | Placebos                                                               | 1980-1985  |
+|        2 | C0032042 | Placebos                                                               | 1991-1995  |
+|       12 | C0032042 | Placebos                                                               | 1996-2000  |
+|       10 | C0032042 | Placebos                                                               | 2001-2005  |
+|        5 | C0032042 | Placebos                                                               | 2006-2010  |
+|       11 | C0032042 | Placebos                                                               | 2011-2013  |
+|        1 | C0185414 | Plastic operation on muscle                                            | 1996-2000  |
+|        1 | C0032214 | Play                                                                   | 2011-2013  |
+|        1 | C0152463 | Pleurectomy                                                            | 2006-2010  |
+|        1 | C0182324 | Plug                                                                   | 2006-2010  |
+|        5 | C0182324 | Plug                                                                   | 2011-2013  |
+|        2 | C0444793 | Position change                                                        | 2001-2005  |
+|        1 | C0454517 | Positive pressure therapy                                              | 2006-2010  |
+|        1 | C0872245 | Potassium Channel Blockers                                             | 2001-2005  |
+|        2 | C0872245 | Potassium Channel Blockers                                             | 2006-2010  |
+|        1 | C0085542 | Pravastatin                                                            | 2011-2013  |
+|        1 | C1456692 | Prenatal Testing                                                       | 1996-2000  |
+|        5 | C0199242 | Prescription of prophylactic anticoagulant                             | 1996-2000  |
+|        7 | C0199242 | Prescription of prophylactic anticoagulant                             | 2001-2005  |
+|        2 | C0199242 | Prescription of prophylactic anticoagulant                             | 2006-2010  |
+|        9 | C0199242 | Prescription of prophylactic anticoagulant                             | 2011-2013  |
+|        1 | C0033080 | prescription procedure                                                 | 2001-2005  |
+|        1 | C0033080 | prescription procedure                                                 | 2006-2010  |
+|        4 | C0033080 | prescription procedure                                                 | 2011-2013  |
+|        1 | C0033081 | Prescriptions, Drug                                                    | 2006-2010  |
+|        1 | C1113680 | prevention evaluation                                                  | 2011-2013  |
+|        1 | C0679698 | prevention of disorder                                                 | 2001-2005  |
+|        1 | C0033137 | Primary Health Care                                                    | 2001-2005  |
+|        2 | C0033137 | Primary Health Care                                                    | 2006-2010  |
+|        1 | C0033137 | Primary Health Care                                                    | 2011-2013  |
+|        1 | C0033144 | Primary Prevention                                                     | 1996-2000  |
+|        4 | C0033144 | Primary Prevention                                                     | 2001-2005  |
+|        3 | C0033144 | Primary Prevention                                                     | 2006-2010  |
+|        1 | C0257634 | proadrenomedullin                                                      | 2011-2013  |
+|        1 | C0182400 | Probes                                                                 | 1996-2000  |
+|        3 | C0033215 | Probucol                                                               | 2006-2010  |
+|        2 | C0033216 | Procainamide                                                           | 1980-1985  |
+|        4 | C0033216 | Procainamide                                                           | 1986-1990  |
+|        1 | C0033216 | Procainamide                                                           | 1991-1995  |
+|        5 | C0033216 | Procainamide                                                           | 1996-2000  |
+|        3 | C0033216 | Procainamide                                                           | 2001-2005  |
+|        5 | C0033216 | Procainamide                                                           | 2006-2010  |
+|        2 | C0033216 | Procainamide                                                           | 2011-2013  |
+|        3 | C1279986 | Procedure on heart                                                     | 2006-2010  |
+|        4 | C0184661 | Procedures                                                             | 1991-1995  |
+|       15 | C0184661 | Procedures                                                             | 1996-2000  |
+|       57 | C0184661 | Procedures                                                             | 2001-2005  |
+|      103 | C0184661 | Procedures                                                             | 2006-2010  |
+|       73 | C0184661 | Procedures                                                             | 2011-2013  |
+|        4 | C0398102 | Procedures on veins                                                    | 2001-2005  |
+|       10 | C0033429 | Propafenone                                                            | 1986-1990  |
+|       19 | C0033429 | Propafenone                                                            | 1991-1995  |
+|       36 | C0033429 | Propafenone                                                            | 1996-2000  |
+|       22 | C0033429 | Propafenone                                                            | 2001-2005  |
+|        5 | C0033429 | Propafenone                                                            | 2006-2010  |
+|        3 | C0033429 | Propafenone                                                            | 2011-2013  |
+|        1 | C0700465 | Propafenone Hydrochloride                                              | 1986-1990  |
+|        1 | C0700465 | Propafenone Hydrochloride                                              | 2006-2010  |
+|        6 | C0199176 | Prophylactic treatment                                                 | 1991-1995  |
+|       23 | C0199176 | Prophylactic treatment                                                 | 1996-2000  |
+|       22 | C0199176 | Prophylactic treatment                                                 | 2001-2005  |
+|       34 | C0199176 | Prophylactic treatment                                                 | 2006-2010  |
+|       32 | C0199176 | Prophylactic treatment                                                 | 2011-2013  |
+|        1 | C0033487 | Propofol                                                               | 2006-2010  |
+|        3 | C0033497 | Propranolol                                                            | 1991-1995  |
+|        1 | C0033554 | Prostaglandins                                                         | 1980-1985  |
+|        1 | C0175649 | Prosthesis                                                             | 1991-1995  |
+|        1 | C0444753 | Prosthetic replacement                                                 | 2011-2013  |
+|        1 | C0336548 | Prosthetic valve                                                       | 1991-1995  |
+|        1 | C0033603 | Protamines                                                             | 2006-2010  |
+|        2 | C0033972 | Psychotherapy, Multiple                                                | 1996-2000  |
+|        3 | C0033972 | Psychotherapy, Multiple                                                | 2001-2005  |
+|        1 | C0033972 | Psychotherapy, Multiple                                                | 2006-2010  |
+|        1 | C0034117 | Puncture procedure                                                     | 2011-2013  |
+|        3 | C0034414 | Quinidine                                                              | 1980-1985  |
+|        6 | C0034414 | Quinidine                                                              | 1986-1990  |
+|        7 | C0034414 | Quinidine                                                              | 1991-1995  |
+|        3 | C0034414 | Quinidine                                                              | 1996-2000  |
+|        1 | C0034414 | Quinidine                                                              | 2001-2005  |
+|        2 | C0034414 | Quinidine                                                              | 2006-2010  |
+|        3 | C0034414 | Quinidine                                                              | 2011-2013  |
+|        2 | C0034415 | Quinidine Sulfate                                                      | 1980-1985  |
+|        2 | C0034415 | Quinidine Sulfate                                                      | 1996-2000  |
+|        1 | C0850292 | Radiofrequency ablation                                                | 1991-1995  |
+|       20 | C0850292 | Radiofrequency ablation                                                | 1996-2000  |
+|       99 | C0850292 | Radiofrequency ablation                                                | 2001-2005  |
+|      125 | C0850292 | Radiofrequency ablation                                                | 2006-2010  |
+|       81 | C0850292 | Radiofrequency ablation                                                | 2011-2013  |
+|        1 | C0879102 | Radiofrequency Ablation Systems                                        | 2006-2010  |
+|        1 | C0072973 | Ramipril                                                               | 2006-2010  |
+|       11 | C0073633 | ranolazine                                                             | 2006-2010  |
+|        8 | C0073633 | ranolazine                                                             | 2011-2013  |
+|        1 | C0069919 | ranpirnase                                                             | 1991-1995  |
+|        3 | C0034754 | Reading                                                                | 2011-2013  |
+|        2 | C1441722 | REBREATHING                                                            | 2006-2010  |
+|        1 | C1441722 | REBREATHING                                                            | 2011-2013  |
+|        1 | C1522558 | Recombinant Monocyte Chemoattractant Protein-1                         | 2011-2013  |
+|        1 | C0524865 | Reconstructive Surgical Procedures                                     | 2001-2005  |
+|        3 | C0524865 | Reconstructive Surgical Procedures                                     | 2011-2013  |
+|        2 | C0182913 | Recorder                                                               | 2006-2010  |
+|        1 | C0034991 | Rehabilitation therapy                                                 | 2011-2013  |
+|        1 | C0035028 | Relaxation                                                             | 1980-1985  |
+|        3 | C0035028 | Relaxation                                                             | 1986-1990  |
+|        3 | C0035028 | Relaxation                                                             | 1996-2000  |
+|        1 | C0035028 | Relaxation                                                             | 2001-2005  |
+|        1 | C0246631 | remifentanil                                                           | 2001-2005  |
+|        1 | C0553891 | Removal of endotracheal tube                                           | 2011-2013  |
+|        1 | C0849355 | Removes                                                                | 2006-2010  |
+|        1 | C1579267 | Renin-angiotensin-aldosterone System Inhibitors                        | 2011-2013  |
+|        1 | C0396849 | Repair of mitral valve                                                 | 1991-1995  |
+|        2 | C0396849 | Repair of mitral valve                                                 | 2001-2005  |
+|        1 | C0396849 | Repair of mitral valve                                                 | 2006-2010  |
+|        1 | C0396899 | Repair of tricuspid valve                                              | 2006-2010  |
+|        1 | C0185003 | Reparative closure                                                     | 2001-2005  |
+|        1 | C0035110 | Repeat Surgery                                                         | 1986-1990  |
+|        1 | C0035110 | Repeat Surgery                                                         | 1991-1995  |
+|        1 | C0035110 | Repeat Surgery                                                         | 2001-2005  |
+|        1 | C0035110 | Repeat Surgery                                                         | 2006-2010  |
+|        1 | C0035110 | Repeat Surgery                                                         | 2011-2013  |
+|        1 | C0035124 | Reperfusion Therapy                                                    | 2006-2010  |
+|        1 | C0553895 | Replacement of mitral valve with tissue graft                          | 1986-1990  |
+|        1 | C0700287 | Reporting                                                              | 2006-2010  |
+|        2 | C0700287 | Reporting                                                              | 2011-2013  |
+|        1 | C0035253 | Rest                                                                   | 1986-1990  |
+|        1 | C0035253 | Rest                                                                   | 1991-1995  |
+|        3 | C0035253 | Rest                                                                   | 1996-2000  |
+|        3 | C0035253 | Rest                                                                   | 2001-2005  |
+|        2 | C0035253 | Rest                                                                   | 2006-2010  |
+|        1 | C0073096 | resveratrol                                                            | 2011-2013  |
+|        2 | C0581603 | Revascularization - action                                             | 2006-2010  |
+|        1 | C0652011 | rilmakalim                                                             | 2001-2005  |
+|        1 | C0086930 | Risk Assessment                                                        | 1996-2000  |
+|        1 | C0086930 | Risk Assessment                                                        | 2006-2010  |
+|       14 | C0086930 | Risk Assessment                                                        | 2011-2013  |
+|        1 | C0035649 | Risk Management                                                        | 1996-2000  |
+|        1 | C0035649 | Risk Management                                                        | 2006-2010  |
+|        2 | C1137094 | Risk Reduction                                                         | 2001-2005  |
+|        2 | C1137094 | Risk Reduction                                                         | 2006-2010  |
+|        9 | C1137094 | Risk Reduction                                                         | 2011-2013  |
+|        2 | C0722978 | RMS                                                                    | 1996-2000  |
+|        2 | C0879118 | Robotic Systems                                                        | 2011-2013  |
+|        2 | C0965129 | rosuvastatin                                                           | 2011-2013  |
+|        2 | C0243431 | Rotundium                                                              | 1991-1995  |
+|        1 | C1298805 | Routine procedure                                                      | 2006-2010  |
+|        1 | C1298805 | Routine procedure                                                      | 2011-2013  |
+|        1 | C0183115 | Scanning Systems                                                       | 2011-2013  |
+|        1 | C0220908 | Screening procedure                                                    | 1991-1995  |
+|        3 | C0220908 | Screening procedure                                                    | 1996-2000  |
+|        4 | C0220908 | Screening procedure                                                    | 2001-2005  |
+|        2 | C0220908 | Screening procedure                                                    | 2006-2010  |
+|       23 | C0220908 | Screening procedure                                                    | 2011-2013  |
+|        1 | C0871311 | Screening Tests                                                        | 2011-2013  |
+|        5 | C0679699 | Secondary prevention                                                   | 1996-2000  |
+|        5 | C0679699 | Secondary prevention                                                   | 2001-2005  |
+|        2 | C0679699 | Secondary prevention                                                   | 2006-2010  |
+|        5 | C0679699 | Secondary prevention                                                   | 2011-2013  |
+|        2 | C0445275 | Secondary procedure                                                    | 2006-2010  |
+|        2 | C0445275 | Secondary procedure                                                    | 2011-2013  |
+|        1 | C0086969 | Self-Management                                                        | 1996-2000  |
+|        2 | C0086969 | Self-Management                                                        | 2001-2005  |
+|        1 | C0086969 | Self-Management                                                        | 2006-2010  |
+|        1 | C0086969 | Self-Management                                                        | 2011-2013  |
+|        1 | C0392254 | Semiconductor laser device                                             | 2006-2010  |
+|        1 | C0183210 | Sensors                                                                | 1996-2000  |
+|        1 | C0183210 | Sensors                                                                | 2006-2010  |
+|        5 | C0183336 | Sleeves                                                                | 2001-2005  |
+|        6 | C0183336 | Sleeves                                                                | 2006-2010  |
+|        3 | C0183336 | Sleeves                                                                | 2011-2013  |
+|        1 | C0872271 | Sodium Channel Blockers                                                | 1991-1995  |
+|        1 | C0872271 | Sodium Channel Blockers                                                | 2001-2005  |
+|        1 | C0872271 | Sodium Channel Blockers                                                | 2006-2010  |
+|        1 | C0872271 | Sodium Channel Blockers                                                | 2011-2013  |
+|        1 | C0037494 | Sodium Chloride                                                        | 2006-2010  |
+|        2 | C0037707 | Sotalol                                                                | 1980-1985  |
+|        8 | C0037707 | Sotalol                                                                | 1991-1995  |
+|       23 | C0037707 | Sotalol                                                                | 1996-2000  |
+|       27 | C0037707 | Sotalol                                                                | 2001-2005  |
+|       12 | C0037707 | Sotalol                                                                | 2006-2010  |
+|        2 | C0037707 | Sotalol                                                                | 2011-2013  |
+|        1 | C0183427 | Sphygmomanometers                                                      | 2006-2010  |
+|        1 | C0037982 | Spironolactone                                                         | 1996-2000  |
+|        3 | C0037982 | Spironolactone                                                         | 2006-2010  |
+|        2 | C0037982 | Spironolactone                                                         | 2011-2013  |
+|        2 | C0597505 | split brain                                                            | 1991-1995  |
+|        5 | C0038039 | Sports                                                                 | 2006-2010  |
+|        1 | C0038039 | Sports                                                                 | 2011-2013  |
+|        1 | C1293130 | Stabilization                                                          | 1986-1990  |
+|        1 | C1293130 | Stabilization                                                          | 2001-2005  |
+|        5 | C1293130 | Stabilization                                                          | 2006-2010  |
+|        2 | C1293130 | Stabilization                                                          | 2011-2013  |
+|        1 | C0687568 | Stents, Vascular, Coronary                                             | 2011-2013  |
+|        1 | C0149783 | Steroid therapy                                                        | 2001-2005  |
+|        1 | C1292856 | Stimulation procedure                                                  | 1980-1985  |
+|        4 | C1292856 | Stimulation procedure                                                  | 1991-1995  |
+|        6 | C1292856 | Stimulation procedure                                                  | 1996-2000  |
+|        3 | C1292856 | Stimulation procedure                                                  | 2001-2005  |
+|        4 | C1292856 | Stimulation procedure                                                  | 2006-2010  |
+|        7 | C1292856 | Stimulation procedure                                                  | 2011-2013  |
+|        1 | C0038418 | Streptokinase                                                          | 1991-1995  |
+|        2 | C1277289 | Stroke prevention                                                      | 1986-1990  |
+|       19 | C1277289 | Stroke prevention                                                      | 1991-1995  |
+|       54 | C1277289 | Stroke prevention                                                      | 1996-2000  |
+|       75 | C1277289 | Stroke prevention                                                      | 2001-2005  |
+|      146 | C1277289 | Stroke prevention                                                      | 2006-2010  |
+|      398 | C1277289 | Stroke prevention                                                      | 2011-2013  |
+|        1 | C0872085 | stroke therapy                                                         | 2001-2005  |
+|        2 | C0872085 | stroke therapy                                                         | 2006-2010  |
+|        2 | C0872085 | stroke therapy                                                         | 2011-2013  |
+|        1 | C0038838 | Superoxide Dismutase                                                   | 2011-2013  |
+|        1 | C0183683 | Support, device                                                        | 1986-1990  |
+|        1 | C0183683 | Support, device                                                        | 2001-2005  |
+|        1 | C0183683 | Support, device                                                        | 2006-2010  |
+|        1 | C0184898 | Surgical incisions                                                     | 1986-1990  |
+|        1 | C0184898 | Surgical incisions                                                     | 2001-2005  |
+|        1 | C1515089 | Surgical Management                                                    | 1991-1995  |
+|        1 | C0206058 | Surgical Procedures, Elective                                          | 2011-2013  |
+|        1 | C0282493 | Surgical Procedures, Endoscopic                                        | 2001-2005  |
+|        1 | C0282624 | Surgical Procedures, Minimally Invasive                                | 2006-2010  |
+|        3 | C0751551 | Surgical Procedures, Thoracoscopic                                     | 2011-2013  |
+|        1 | C0184985 | Surgical repair                                                        | 1996-2000  |
+|        2 | C0035139 | Surgical Replantation                                                  | 2011-2013  |
+|        1 | C0185016 | Suture ligation                                                        | 2011-2013  |
+|        2 | C0039038 | Sympathectomy                                                          | 2011-2013  |
+|        1 | C1274136 | Symptom control                                                        | 2001-2005  |
+|        1 | C1274136 | Symptom control                                                        | 2006-2010  |
+|        1 | C1290952 | Taking medication                                                      | 2011-2013  |
+|        4 | C0076034 | tedisamil                                                              | 2001-2005  |
+|        1 | C0076034 | tedisamil                                                              | 2006-2010  |
+|        1 | C0162648 | Telemedicine                                                           | 2006-2010  |
+|        1 | C0248719 | telmisartan                                                            | 2011-2013  |
+|        2 | C0000811 | Termination of pregnancy                                               | 2011-2013  |
+|        1 | C0039601 | Testosterone                                                           | 2006-2010  |
+|        2 | C0039771 | Theophylline                                                           | 1991-1995  |
+|        1 | C1611640 | Therapeutic agent (substance)                                          | 2001-2005  |
+|        1 | C1611640 | Therapeutic agent (substance)                                          | 2011-2013  |
+|        1 | C0336568 | Therapeutic device, NOS                                                | 2011-2013  |
+|        1 | C1527144 | Therapeutic Effect                                                     | 2011-2013  |
+|        1 | C0808232 | Therapeutic Intervention                                               | 2001-2005  |
+|        2 | C0808232 | Therapeutic Intervention                                               | 2006-2010  |
+|        2 | C0808232 | Therapeutic Intervention                                               | 2011-2013  |
+|        1 | C0039799 | Therapy, Computer-Assisted                                             | 2001-2005  |
+|        1 | C1257987 | Thiazolidinediones                                                     | 2006-2010  |
+|        1 | C1257987 | Thiazolidinediones                                                     | 2011-2013  |
+|        1 | C0524832 | Thoracic Surgical Procedures                                           | 2011-2013  |
+|        2 | C0040018 | Thrombin                                                               | 1996-2000  |
+|        2 | C0040018 | Thrombin                                                               | 2001-2005  |
+|        2 | C0040018 | Thrombin                                                               | 2006-2010  |
+|        1 | C0040018 | Thrombin                                                               | 2011-2013  |
+|        6 | C1373124 | Thrombin Inhibitors                                                    | 2001-2005  |
+|        3 | C1373124 | Thrombin Inhibitors                                                    | 2006-2010  |
+|        1 | C1373124 | Thrombin Inhibitors                                                    | 2011-2013  |
+|        1 | C1608431 | Thromboembolectomy                                                     | 2011-2013  |
+|        3 | C0040044 | Thrombolytic Therapy                                                   | 2001-2005  |
+|        2 | C0040044 | Thrombolytic Therapy                                                   | 2006-2010  |
+|        1 | C0040207 | Ticlopidine                                                            | 1996-2000  |
+|        1 | C0542378 | Total pharyngolaryngectomy                                             | 2001-2005  |
+|        1 | C0040654 | Transcutaneous Electric Nerve Stimulation                              | 2011-2013  |
+|        1 | C0040661 | Transducers                                                            | 2006-2010  |
+|        1 | C0339897 | Transjugular intrahepatic portosystemic shunt procedure                | 1996-2000  |
+|        1 | C0040732 | Transplantation                                                        | 1996-2000  |
+|        1 | C0040732 | Transplantation                                                        | 2011-2013  |
+|        4 | C0040736 | Transplantation, Autologous                                            | 2001-2005  |
+|        4 | C0935576 | Treatment Guidelines                                                   | 2006-2010  |
+|        1 | C0679607 | treatment method                                                       | 1991-1995  |
+|        2 | C0679607 | treatment method                                                       | 1996-2000  |
+|        2 | C0679607 | treatment method                                                       | 2006-2010  |
+|        2 | C0040808 | Treatment Protocols                                                    | 1991-1995  |
+|        1 | C0040808 | Treatment Protocols                                                    | 1996-2000  |
+|        5 | C0040808 | Treatment Protocols                                                    | 2001-2005  |
+|       11 | C0040808 | Treatment Protocols                                                    | 2006-2010  |
+|       14 | C0040808 | Treatment Protocols                                                    | 2011-2013  |
+|        1 | C0077126 | triflusal                                                              | 1996-2000  |
+|        3 | C0041620 | Ultrasonic Therapy                                                     | 2006-2010  |
+|        3 | C0879155 | Ultrasound Ablation Catheters                                          | 2006-2010  |
+|        1 | C0730931 | Univer                                                                 | 1986-1990  |
+|        1 | C0216784 | valsartan                                                              | 2011-2013  |
+|       19 | C0042523 | Verapamil                                                              | 1980-1985  |
+|       13 | C0042523 | Verapamil                                                              | 1986-1990  |
+|        6 | C0042523 | Verapamil                                                              | 1991-1995  |
+|       10 | C0042523 | Verapamil                                                              | 1996-2000  |
+|        7 | C0042523 | Verapamil                                                              | 2001-2005  |
+|        6 | C0042523 | Verapamil                                                              | 2006-2010  |
+|        1 | C0750206 | VERAPAMIL TREATMENT                                                    | 1980-1985  |
+|        2 | C0677965 | Video-Assisted Surgery                                                 | 2006-2010  |
+|        2 | C0545084 | Visit, outpatient                                                      | 2011-2013  |
+|        1 | C0042874 | Vitamin E                                                              | 2011-2013  |
+|        1 | C0042878 | Vitamin K                                                              | 1996-2000  |
+|        1 | C0042878 | Vitamin K                                                              | 2001-2005  |
+|        2 | C0042878 | Vitamin K                                                              | 2006-2010  |
+|        1 | C1096489 | Vitamin K antagonist                                                   | 2001-2005  |
+|       18 | C1096489 | Vitamin K antagonist                                                   | 2006-2010  |
+|       44 | C1096489 | Vitamin K antagonist                                                   | 2011-2013  |
+|        1 | C0420175 | Vitamin prophylaxis                                                    | 2011-2013  |
+|        1 | C0302837 | Vitamin supplementation                                                | 2011-2013  |
+|        4 | C0042971 | von Willebrand Factor                                                  | 2001-2005  |
+|        2 | C0042971 | von Willebrand Factor                                                  | 2006-2010  |
+|        3 | C0042971 | von Willebrand Factor                                                  | 2011-2013  |
+|        1 | C0043031 | Warfarin                                                               | 1980-1985  |
+|        2 | C0043031 | Warfarin                                                               | 1986-1990  |
+|       17 | C0043031 | Warfarin                                                               | 1991-1995  |
+|       41 | C0043031 | Warfarin                                                               | 1996-2000  |
+|       85 | C0043031 | Warfarin                                                               | 2001-2005  |
+|      114 | C0043031 | Warfarin                                                               | 2006-2010  |
+|      200 | C0043031 | Warfarin                                                               | 2011-2013  |
+|        1 | C0376218 | Warfarin Sodium                                                        | 1991-1995  |
+|        1 | C0376218 | Warfarin Sodium                                                        | 1996-2000  |
+|        1 | C0376218 | Warfarin Sodium                                                        | 2006-2010  |
+|        1 | C0376218 | Warfarin Sodium                                                        | 2011-2013  |
+|        1 | C0750388 | WARFARIN TREATMENT                                                     | 1980-1985  |
+|        1 | C0750388 | WARFARIN TREATMENT                                                     | 1996-2000  |
+|        1 | C0750388 | WARFARIN TREATMENT                                                     | 2001-2005  |
+|       10 | C0750388 | WARFARIN TREATMENT                                                     | 2006-2010  |
+|        6 | C0750388 | WARFARIN TREATMENT                                                     | 2011-2013  |
+|        1 | C1532953 | Wavefront analysis                                                     | 2006-2010  |
+|        1 | C0078595 | Xamoterol                                                              | 1986-1990  |
+|       20 | C0966370 | ximelagatran                                                           | 2001-2005  |
+|        9 | C0966370 | ximelagatran                                                           | 2006-2010  |
+|        1 | C0257685 | zoledronic acid                                                        | 2006-2010  |
+|        1 | C0257685 | zoledronic acid                                                        | 2011-2013  |
+|        2 | C1564799 | Zonal                                                                  | 1991-1995  |
+|        1 | C1564799 | Zonal                                                                  | 1996-2000  |
+|        1 | C1564799 | Zonal                                                                  | 2006-2010  |
+|        1 | C1564799 | Zonal                                                                  | 2011-2013  |
+|        1 | C1441436 | {PROVIDER}                                                             | 2001-2005  |

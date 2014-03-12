@@ -1,4 +1,6 @@
-DATA = 'congestive_heart_failure.pipe.txt'
+# DATA = 'congestive_heart_failure.pipe.txt'
+DATA = 'atrial fibrillation.pipe.txt'
+
 
 class Treatment < Struct.new(:cui, :name, :mentions_by_date_range, :trend)
 end
@@ -58,7 +60,7 @@ TEMPLATE = <<-HTML
         </tr>
         <% treatments.each do |t| %>
           <tr>
-            <td><%= t.name[0..20] %> (<%= t.cui %>)</td>
+            <td><%= t.name %> (<%= t.cui %>)</td>
             <td><%= t.mentions_by_date_range['1980-1985'] || '&nbsp;' %></td>
             <td><%= t.mentions_by_date_range['1986-1990'] || '&nbsp;' %></td>
             <td><%= t.mentions_by_date_range['1991-1995'] || '&nbsp;' %></td>
