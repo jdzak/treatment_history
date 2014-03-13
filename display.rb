@@ -1,5 +1,5 @@
-# DATA = 'congestive_heart_failure.pipe.txt'
-DATA = 'atrial fibrillation.pipe.txt'
+DATA = 'congestive_heart_failure.pipe.txt'
+# DATA = 'atrial fibrillation.pipe.txt'
 
 
 class Treatment < Struct.new(:cui, :name, :mentions_by_date_range, :trend)
