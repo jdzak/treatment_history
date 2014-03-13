@@ -35,13 +35,23 @@
             //     verticalAlign: 'middle',
             //     borderWidth: 0
             // },
-            series: [{
+            series: [
+              {
                 name: 'Angiotensin-Convertin',
-                data: [16, 116, 232, 344, 352, 162, 47] }, {
+                data: [16, 116, 232, 344, 352, 162, 47] 
+              }, 
+              {
                 name: 'Adrenergic beta-Antag',
-                data: [2, 25, 58, 218, 379, 200, 109] }, {
+                data: [2, 25, 58, 218, 379, 200, 109] 
+              }, 
+              {
                 name: 'Pharmaceutical Prepar',
-                data: [36, 95, 119, 154, 223, 186, 134] }]
+                data: [36, 95, 119, 154, 223, 186, 134] 
+              }, 
+              {
+                name: '(intersection of all treatments)',
+                data: [1, 12, 30, 75, 110, 80, 20]
+              }]
         });
       });
 
@@ -75,7 +85,7 @@ Heart Transplantation (C0018823)
   </style>
 
   <body>
-    <div class="container">
+    <div class="container" style="width:1200">
       <div class="row" style="border-bottom:1px solid #ccc">
         <div class="col-md-4">
           <img src="images/NUCATS-with-NU-extra-small.jpg"/>
@@ -96,17 +106,17 @@ Heart Transplantation (C0018823)
         <div class="col-md-4">
           <span style="font-weight: bold">Treatment Trends</span>
           <ol style="border-top: 1px solid #ccc">
-            <li><input type="radio" checked="checked"/>&nbsp;Upward Trend</li>
-            <li><input type="radio"/>&nbsp;Downward Trend</li>
-            <li><input type="radio"/>&nbsp;Constant Trend</li>
+            <li><input type="radio" checked="checked"/>&nbsp;Novel Trend</li>
+            <li><input type="radio"/>&nbsp;Established Trend</li>
+            <li><input type="radio"/>&nbsp;Custom Trend</li>
           </ol>
           <br/><br/>
           <span >
             <span style="font-weight: bold">Treatments</span>
             <span style="font-weight: bold">sorted by</span>
               <select>
-                <option>Score: high to low</option>
-                <option>Score: low to high</option>
+                <option>Trend Matches: most to least</option>
+                <option>Trend Matches: least to most</option>
               </select>
             
           </span>
